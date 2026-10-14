@@ -1,0 +1,9 @@
+{
+  "description": "Unchanged SVG exports corresponding to the historical native PowerPoint chart packages. Changing a SVG requires migrating that chart exporter; QMD remains authoritative.",
+  "svg_sha256": {
+    "s07": "55400b241dd7f5f17b52b6d85132f2709f33a65785ce0c462fefc285851a6044",
+    "s08": "06110fb6eb26e612b35ac62ff278e5a9841f5f599e2f09c5ee1b4894a252f4fe",
+    "s20": "46f1b8ba5e535ed4837756b05c4e25857e242eba327410c65acfaab62b84ef3c",
+    "s22": "477f46983b3edfb2b056267de707711602cde83823770a2bb476e3aeb0323978"
+  }
+}

@@ -1,0 +1,2774 @@
+{
+  "source": "Alineacion_con_la_percepcion_humana_revisada.pptx",
+  "source_sha256": "c7b42ab38af2e34a66d3ef5e80af5e90cc9cb1992bcec4e74ff1f2fcc35e36a5",
+  "canvas": [
+    1280,
+    720
+  ],
+  "slides": [
+    {
+      "id": "s01",
+      "title": "¿Están los modelos alineados con la percepción humana?",
+      "background": "#142F3C",
+      "objects": [
+        {
+          "shape_id": "4",
+          "type": "sp",
+          "box": [
+            72.0,
+            125.0,
+            1136.0,
+            335.0
+          ],
+          "paragraphs": [
+            "¿Están los modelos",
+            "alineados con la",
+            "percepción humana?"
+          ]
+        },
+        {
+          "shape_id": "2",
+          "type": "sp",
+          "box": [
+            72.0,
+            542.0,
+            1050.0,
+            50.0
+          ],
+          "paragraphs": [
+            "Christian Velásquez Borasino"
+          ]
+        },
+        {
+          "shape_id": "3",
+          "type": "sp",
+          "box": [
+            72.0,
+            598.0,
+            1050.0,
+            40.0
+          ],
+          "paragraphs": [
+            "Charla inspirada en una conferencia de David Fleet"
+          ]
+        }
+      ],
+      "notes": [
+        "Presentar brevemente el título y al ponente. La pregunta recorre visión, vídeo y lenguaje. Inspiración: conferencia de David Fleet; los resultados pertenecen a los trabajos citados. Pasar al café para comenzar los 40 minutos de contenido."
+      ]
+    },
+    {
+      "id": "s02",
+      "title": "¿Qué ven aquí?",
+      "background": "#F8F7F3",
+      "objects": [
+        {
+          "shape_id": "8",
+          "type": "sp",
+          "box": [
+            72.0,
+            45.0,
+            1136.0,
+            100.0
+          ],
+          "paragraphs": [
+            "¿Qué ven aquí?"
+          ]
+        },
+        {
+          "shape_id": "2",
+          "type": "sp",
+          "box": [
+            1120.0,
+            678.0,
+            90.0,
+            24.0
+          ],
+          "paragraphs": [
+            "01 / 22"
+          ]
+        },
+        {
+          "shape_id": "3",
+          "type": "pic",
+          "box": [
+            72.0,
+            175.13154855643046,
+            370.0,
+            379.73679790026245
+          ],
+          "image": "assets/revised/image.png",
+          "sha256": "fcf26e00dab8ecf0bed3b0c9d536d801e3fa7b3ccd810ec8626b7f5d97acf339"
+        },
+        {
+          "shape_id": "4",
+          "type": "pic",
+          "box": [
+            505.0,
+            230.2267716535433,
+            300.0,
+            301.5463517060368
+          ],
+          "image": "assets/revised/image2.png",
+          "sha256": "6951fdf5787a264c8b705f2c62a7dde01a4446aeb8f727bbfceef113694bc557"
+        },
+        {
+          "shape_id": "5",
+          "type": "pic",
+          "box": [
+            880.0,
+            231.76535433070867,
+            300.0,
+            298.46939632545934
+          ],
+          "image": "assets/revised/image3.png",
+          "sha256": "22601ef3c311d61a865b31a79b5dcd6d6093010239820f91ca3d87e85291f204"
+        },
+        {
+          "shape_id": "6",
+          "type": "sp",
+          "box": [
+            72.0,
+            590.0,
+            1000.0,
+            50.0
+          ],
+          "paragraphs": [
+            "Una experiencia cotidiana"
+          ]
+        },
+        {
+          "shape_id": "7",
+          "type": "sp",
+          "box": [
+            72.0,
+            678.0,
+            1020.0,
+            24.0
+          ],
+          "paragraphs": [
+            "Wardle et al. (2020), Fig. 1a. Recortes del estímulo original"
+          ]
+        }
+      ],
+      "notes": [
+        "CONTENIDO 1/22 · 00:00–01:15 · 1.25 min Seguramente alguna vez han visto una cara donde realmente no la hay: en una nube, una pared o una taza de café. Dejar 5–8 segundos de observación; preguntar qué ven sin nombrar todavía el fenómeno. Después introducir pareidolia: reconocemos una configuración facial aunque sepamos que estamos mirando otro objeto. TRANSICIÓN Una misma imagen también puede admitir dos lecturas distintas. FUENTES Y RECURSOS https://doi.org/10.1038/s41467-020-18325-8"
+      ]
+    },
+    {
+      "id": "s03",
+      "title": "Una imagen, dos interpretaciones",
+      "background": "#F8F7F3",
+      "objects": [
+        {
+          "shape_id": "6",
+          "type": "sp",
+          "box": [
+            72.0,
+            45.0,
+            1136.0,
+            100.0
+          ],
+          "paragraphs": [
+            "Una imagen, dos interpretaciones"
+          ]
+        },
+        {
+          "shape_id": "2",
+          "type": "sp",
+          "box": [
+            1120.0,
+            678.0,
+            90.0,
+            24.0
+          ],
+          "paragraphs": [
+            "02 / 22"
+          ]
+        },
+        {
+          "shape_id": "3",
+          "type": "pic",
+          "box": [
+            393.0,
+            224.42068241469815,
+            490.0,
+            261.1586351706037
+          ],
+          "image": "assets/revised/image4.png",
+          "sha256": "f2d71ae64c973248943253c9be72a29953d9fd2a18fd24ab222a985ea696ca0c"
+        },
+        {
+          "shape_id": "4",
+          "type": "sp",
+          "box": [
+            360.0,
+            590.0,
+            650.0,
+            48.0
+          ],
+          "paragraphs": [
+            "¿Pato?                         ¿Conejo?"
+          ]
+        },
+        {
+          "shape_id": "5",
+          "type": "sp",
+          "box": [
+            72.0,
+            678.0,
+            1020.0,
+            24.0
+          ],
+          "paragraphs": [
+            "Jaini, Clark y Geirhos (2024), Fig. 7. Estímulo original"
+          ]
+        }
+      ],
+      "notes": [
+        "CONTENIDO 2/22 · 01:15–02:30 · 1.25 min Preguntar: ¿un pato o un conejo? ¿Alguien puede ver ambos? Esperar respuestas antes de revelar cada etiqueta con una pulsación. Señalar pico y orejas; los trazos permanecen. No exigir que todos alternen de la misma manera. TRANSICIÓN Esto también nos ocurre al entrenar visión artificial: imágenes distintas se confunden y una textura puede cambiar una clasificación. ¿Qué estamos llamando percepción? FUENTES Y RECURSOS https://proceedings.iclr.cc/paper_files/paper/2024/file/3ba4d47a83e498c2b1a0868cba20f6de-Paper-Conference.pdf"
+      ]
+    },
+    {
+      "id": "s04",
+      "title": "Percepción Organizar e interpretar la información que recibimos ¿Qué interpretaciones comparten los modelos y las personas?",
+      "background": "#142F3C",
+      "objects": [
+        {
+          "shape_id": "5",
+          "type": "sp",
+          "box": [
+            1120.0,
+            678.0,
+            90.0,
+            24.0
+          ],
+          "paragraphs": [
+            "03 / 22"
+          ]
+        },
+        {
+          "shape_id": "2",
+          "type": "sp",
+          "box": [
+            72.0,
+            168.0,
+            1136.0,
+            95.0
+          ],
+          "paragraphs": [
+            "Percepción"
+          ]
+        },
+        {
+          "shape_id": "3",
+          "type": "sp",
+          "box": [
+            72.0,
+            300.0,
+            1136.0,
+            150.0
+          ],
+          "paragraphs": [
+            "Organizar e interpretar",
+            "la información que recibimos"
+          ]
+        },
+        {
+          "shape_id": "4",
+          "type": "sp",
+          "box": [
+            72.0,
+            528.0,
+            1136.0,
+            80.0
+          ],
+          "paragraphs": [
+            "¿Qué interpretaciones comparten los modelos y las personas?"
+          ]
+        }
+      ],
+      "notes": [
+        "CONTENIDO 3/22 · 02:30–04:00 · 1.5 min Definición de trabajo: organizar e interpretar información para reconocer objetos, patrones y situaciones, y dar sentido al lenguaje. La experiencia precede a la definición. Plantear oralmente la pregunta central después de explicarla: ¿las interpretaciones de nuestros modelos se parecen a las humanas? TRANSICIÓN Compararemos interpretaciones, señales y contexto, y patrones de error en experimentos concretos. Empecemos con señales visuales en conflicto."
+      ]
+    },
+    {
+      "id": "s05",
+      "title": "¿Qué animal reconocen?",
+      "background": "#F8F7F3",
+      "objects": [
+        {
+          "shape_id": "7",
+          "type": "sp",
+          "box": [
+            72.0,
+            45.0,
+            1136.0,
+            100.0
+          ],
+          "paragraphs": [
+            "¿Qué animal reconocen?"
+          ]
+        },
+        {
+          "shape_id": "2",
+          "type": "sp",
+          "box": [
+            1120.0,
+            678.0,
+            90.0,
+            24.0
+          ],
+          "paragraphs": [
+            "04 / 22"
+          ]
+        },
+        {
+          "shape_id": "3",
+          "type": "pic",
+          "box": [
+            429.9062467191601,
+            151.0,
+            422.1875065616798,
+            420.0
+          ],
+          "image": "assets/revised/image5.png",
+          "sha256": "53ad2c3f02309a284554abd1a5f8d007b32440c213028590e6d09116a5a5e20e"
+        },
+        {
+          "shape_id": "4",
+          "type": "sp",
+          "box": [
+            232.0,
+            600.0,
+            390.0,
+            42.0
+          ],
+          "paragraphs": [
+            "Forma de gato"
+          ]
+        },
+        {
+          "shape_id": "5",
+          "type": "sp",
+          "box": [
+            698.0,
+            600.0,
+            430.0,
+            42.0
+          ],
+          "paragraphs": [
+            "Textura de elefante"
+          ]
+        },
+        {
+          "shape_id": "6",
+          "type": "sp",
+          "box": [
+            72.0,
+            678.0,
+            1020.0,
+            24.0
+          ],
+          "paragraphs": [
+            "Jaini, Clark y Geirhos (2024), Fig. 1. Recorte"
+          ]
+        }
+      ],
+      "notes": [
+        "CONTENIDO 4/22 · 04:00–07:00 · 3 min Preguntar primero: ¿qué animal reconocen? Esperar respuestas antes de revelar forma y textura. Después preguntar qué debería responder un modelo. Dejar que el público observe. El contorno y la textura apuntan a categorías diferentes; el estímulo permite identificar qué señal pesa cuando hay conflicto, uno de nuestros criterios de alineación. Esta es su primera aparición experimental; volveremos a él con Veo para otra pregunta. TRANSICIÓN Para comparar un generador con personas tenemos que obtener una decisión. FUENTES Y RECURSOS https://proceedings.iclr.cc/paper_files/paper/2024/file/3ba4d47a83e498c2b1a0868cba20f6de-Paper-Conference.pdf"
+      ]
+    },
+    {
+      "id": "s06",
+      "title": "Una decisión a partir de un generador",
+      "background": "#F8F7F3",
+      "objects": [
+        {
+          "shape_id": "9",
+          "type": "sp",
+          "box": [
+            72.0,
+            45.0,
+            1136.0,
+            100.0
+          ],
+          "paragraphs": [
+            "Una decisión a partir de un generador"
+          ]
+        },
+        {
+          "shape_id": "2",
+          "type": "sp",
+          "box": [
+            1120.0,
+            678.0,
+            90.0,
+            24.0
+          ],
+          "paragraphs": [
+            "05 / 22"
+          ]
+        },
+        {
+          "shape_id": "3",
+          "type": "pic",
+          "box": [
+            72.0,
+            224.8031496062992,
+            310.0,
+            308.39380577427823
+          ],
+          "image": "assets/revised/image6.png",
+          "sha256": "53ad2c3f02309a284554abd1a5f8d007b32440c213028590e6d09116a5a5e20e"
+        },
+        {
+          "shape_id": "4",
+          "type": "sp",
+          "box": [
+            460.0,
+            178.0,
+            748.0,
+            48.0
+          ],
+          "paragraphs": [
+            "1   Probar una categoría"
+          ]
+        },
+        {
+          "shape_id": "5",
+          "type": "sp",
+          "box": [
+            460.0,
+            239.0,
+            748.0,
+            95.0
+          ],
+          "paragraphs": [
+            "Condicionar la eliminación de ruido",
+            "con «gato» o «elefante»."
+          ]
+        },
+        {
+          "shape_id": "6",
+          "type": "sp",
+          "box": [
+            460.0,
+            374.0,
+            748.0,
+            48.0
+          ],
+          "paragraphs": [
+            "2   Comparar el error"
+          ]
+        },
+        {
+          "shape_id": "7",
+          "type": "sp",
+          "box": [
+            460.0,
+            435.0,
+            748.0,
+            105.0
+          ],
+          "paragraphs": [
+            "Elegir la categoría con menor",
+            "error de eliminación de ruido."
+          ]
+        },
+        {
+          "shape_id": "8",
+          "type": "sp",
+          "box": [
+            72.0,
+            678.0,
+            1020.0,
+            24.0
+          ],
+          "paragraphs": [
+            "Clark y Jaini (2023), Fig. 1. Descripción didáctica del método"
+          ]
+        }
+      ],
+      "notes": [
+        "CONTENIDO 5/22 · 07:00–08:30 · 1.5 min Avanzar por los tres pasos: imagen → hipótesis y comparación del error de eliminación de ruido → decisión. Añadir ruido y comparar errores de eliminación de ruido condicionados por las etiquetas candidatas. Menor error aproxima mayor compatibilidad con la imagen. Se agregan niveles de ruido y muestras; el esquema no requiere generar una imagen final completa por clase. TRANSICIÓN Ahora sí podemos medir qué señal prefieren. FUENTES Y RECURSOS https://proceedings.neurips.cc/paper_files/paper/2023/file/b87bdcf963cad3d0b265fcb78ae7d11e-Paper-Conference.pdf https://proceedings.iclr.cc/paper_files/paper/2024/file/3ba4d47a83e498c2b1a0868cba20f6de-Paper-Conference.pdf"
+      ]
+    },
+    {
+      "id": "s07",
+      "title": "Imagen favorece la forma",
+      "background": "#F8F7F3",
+      "objects": [
+        {
+          "shape_id": "7",
+          "type": "sp",
+          "box": [
+            72.0,
+            45.0,
+            1136.0,
+            100.0
+          ],
+          "paragraphs": [
+            "Imagen favorece la forma"
+          ]
+        },
+        {
+          "shape_id": "2",
+          "type": "sp",
+          "box": [
+            1120.0,
+            678.0,
+            90.0,
+            24.0
+          ],
+          "paragraphs": [
+            "06 / 22"
+          ]
+        },
+        {
+          "shape_id": "3",
+          "type": "graphicFrame",
+          "box": [
+            72.0,
+            176.0,
+            1136.0,
+            375.0
+          ],
+          "series": [
+            {
+              "name": "Resultado",
+              "categories": [
+                "ResNet-50",
+                "CLIP",
+                "Stable Diffusion",
+                "Humanos",
+                "Imagen"
+              ],
+              "values": [
+                21.0,
+                57.0,
+                93.0,
+                96.0,
+                99.0
+              ],
+              "plus": [],
+              "minus": []
+            }
+          ]
+        },
+        {
+          "shape_id": "4",
+          "type": "sp",
+          "box": [
+            72.0,
+            578.0,
+            1136.0,
+            44.0
+          ],
+          "paragraphs": [
+            "96 % en humanos y 99 % en Imagen"
+          ]
+        },
+        {
+          "shape_id": "5",
+          "type": "sp",
+          "box": [
+            72.0,
+            625.0,
+            1020.0,
+            32.0
+          ],
+          "paragraphs": [
+            "Entre las respuestas que eligen forma o textura"
+          ]
+        },
+        {
+          "shape_id": "6",
+          "type": "sp",
+          "box": [
+            72.0,
+            678.0,
+            1020.0,
+            24.0
+          ],
+          "paragraphs": [
+            "Jaini, Clark y Geirhos (2024), Fig. 1 y Tabla 1. Selección"
+          ]
+        }
+      ],
+      "notes": [
+        "CONTENIDO 6/22 · 08:30–10:30 · 2 min Leer la selección: ResNet-50 21%, CLIP 57%, Stable Diffusion 93%, humanos 96%, Imagen 99%. Es preferencia por forma entre decisiones de forma o textura, no precisión general. La media humana tiene un rango individual de 92–99%. Algunos generativos se aproximan a esta preferencia humana. TRANSICIÓN Pero también podemos comparar en qué imágenes se confunden. FUENTES Y RECURSOS https://proceedings.iclr.cc/paper_files/paper/2024/file/3ba4d47a83e498c2b1a0868cba20f6de-Paper-Conference.pdf",
+        "",
+        "Qué es Imagen en estos benchmarks: Imagen es el modelo de difusión condicionado por texto de Saharia et al. (2022), desarrollado en Google Research. Jaini et al. (2024) usan exclusivamente su modelo base de 64 × 64 píxeles, no las etapas de superresolución. Lo convierten en un clasificador generativo zero-shot: prueban cada etiqueta de clase como condición textual y estiman la verosimilitud de la imagen a partir del error de eliminación de ruido. La decisión final es una etiqueta de clase. Imagen nombra el modelo, no un conjunto de datos ni una imagen de entrada. Fuente: Jaini et al. (2024), §2, p. 4. https://proceedings.iclr.cc/paper_files/paper/2024/file/3ba4d47a83e498c2b1a0868cba20f6de-Paper-Conference.pdf#page=4"
+      ]
+    },
+    {
+      "id": "s08",
+      "title": "¿Se equivocan en las mismas imágenes?",
+      "background": "#F8F7F3",
+      "objects": [
+        {
+          "shape_id": "7",
+          "type": "sp",
+          "box": [
+            72.0,
+            45.0,
+            1136.0,
+            100.0
+          ],
+          "paragraphs": [
+            "¿Se equivocan en las mismas imágenes?"
+          ]
+        },
+        {
+          "shape_id": "2",
+          "type": "sp",
+          "box": [
+            1120.0,
+            678.0,
+            90.0,
+            24.0
+          ],
+          "paragraphs": [
+            "07 / 22"
+          ]
+        },
+        {
+          "shape_id": "3",
+          "type": "graphicFrame",
+          "box": [
+            72.0,
+            176.0,
+            1136.0,
+            365.0
+          ],
+          "series": [
+            {
+              "name": "Resultado",
+              "categories": [
+                "ResNet-50",
+                "ViT-22B-384",
+                "CLIP, 80 prompts",
+                "Imagen"
+              ],
+              "values": [
+                0.21,
+                0.26,
+                0.28,
+                0.31
+              ],
+              "plus": [],
+              "minus": []
+            }
+          ]
+        },
+        {
+          "shape_id": "4",
+          "type": "sp",
+          "box": [
+            72.0,
+            574.0,
+            1136.0,
+            44.0
+          ],
+          "paragraphs": [
+            "κ: coincidencia de acierto y error, corregida por azar"
+          ]
+        },
+        {
+          "shape_id": "5",
+          "type": "sp",
+          "box": [
+            72.0,
+            625.0,
+            1040.0,
+            32.0
+          ],
+          "paragraphs": [
+            "Agregado de 17 conjuntos de evaluación"
+          ]
+        },
+        {
+          "shape_id": "6",
+          "type": "sp",
+          "box": [
+            72.0,
+            678.0,
+            1020.0,
+            24.0
+          ],
+          "paragraphs": [
+            "Jaini, Clark y Geirhos (2024), Tabla 1. Selección"
+          ]
+        }
+      ],
+      "notes": [
+        "CONTENIDO 7/22 · 10:30–12:00 · 1.5 min Otro criterio: comparar patrones de dificultad ante las mismas imágenes. κ compara coincidencias de acierto/error y corrige lo esperable por azar. No exige que dos evaluadores den la misma etiqueta equivocada. Los valores seleccionados se agregan sobre 17 condiciones; Imagen presenta mayor consistencia que estos comparadores, pero persiste una brecha con la consistencia entre humanos. TRANSICIÓN La matriz permite observar esas relaciones dentro del conflicto forma–textura. FUENTES Y RECURSOS https://proceedings.iclr.cc/paper_files/paper/2024/file/3ba4d47a83e498c2b1a0868cba20f6de-Paper-Conference.pdf"
+      ]
+    },
+    {
+      "id": "s09",
+      "title": "Consistencia de errores en forma–textura",
+      "background": "#F8F7F3",
+      "objects": [
+        {
+          "shape_id": "9",
+          "type": "sp",
+          "box": [
+            72.0,
+            45.0,
+            1136.0,
+            100.0
+          ],
+          "paragraphs": [
+            "Consistencia de errores en forma–textura"
+          ]
+        },
+        {
+          "shape_id": "2",
+          "type": "sp",
+          "box": [
+            1120.0,
+            678.0,
+            90.0,
+            24.0
+          ],
+          "paragraphs": [
+            "08 / 22"
+          ]
+        },
+        {
+          "shape_id": "3",
+          "type": "pic",
+          "box": [
+            122.84671916010498,
+            148.0,
+            744.30656167979,
+            515.0
+          ],
+          "image": "assets/revised/image7.png",
+          "sha256": "31561b9a5273c060d6486e0917825c2ed971ba896a48d1634ab67e1d17a81bee"
+        },
+        {
+          "shape_id": "4",
+          "type": "pic",
+          "box": [
+            83.0,
+            148.0,
+            824.0,
+            515.0
+          ],
+          "fragment": 0,
+          "image": "assets/revised/image8.png",
+          "sha256": "3719f1948351a87194c234c3780ff4b0f4792f0c0a23efc5b307bcfbeda0d2da"
+        },
+        {
+          "shape_id": "5",
+          "type": "sp",
+          "box": [
+            960.0,
+            192.0,
+            248.0,
+            120.0
+          ],
+          "paragraphs": [
+            "Cada fila y columna:",
+            "un evaluador"
+          ]
+        },
+        {
+          "shape_id": "6",
+          "type": "sp",
+          "box": [
+            960.0,
+            345.0,
+            248.0,
+            120.0
+          ],
+          "paragraphs": [
+            "Más intensidad:",
+            "más consistencia"
+          ]
+        },
+        {
+          "shape_id": "7",
+          "type": "sp",
+          "box": [
+            960.0,
+            504.0,
+            248.0,
+            100.0
+          ],
+          "paragraphs": [
+            "Solo el conflicto",
+            "forma–textura"
+          ]
+        },
+        {
+          "shape_id": "8",
+          "type": "sp",
+          "box": [
+            72.0,
+            678.0,
+            1020.0,
+            24.0
+          ],
+          "paragraphs": [
+            "Jaini, Clark y Geirhos (2024), Fig. 6. Figura completa y ampliación al avanzar"
+          ]
+        }
+      ],
+      "notes": [
+        "CONTENIDO 8/22 · 12:00–14:00 · 2 min Mostrar la ampliación como protagonista y orientar con la miniatura. El bloque incluye CLIP, Parti, Noisy Student, tres variantes de ViT-22B, Imagen, Stable Diffusion y diez observadores humanos: no es exclusivamente generativo. Cada fila y columna representa un modelo o un observador humano. Es consistencia de errores, no confusión de clases. Corresponde a cue-conflict, no al agregado de 17 condiciones de la lámina anterior. El recorte conserva los datos originales, orden y colores. La preferencia por forma (96% / 99%) usa un denominador forma o textura; κ agregado usa 17 conjuntos; esta matriz es específica de conflicto forma–textura. No intercambiar estas tres medidas. TRANSICIÓN Volvamos al pato-conejo: ¿qué interpretaciones puede reconstruir un generador? FUENTES Y RECURSOS https://proceedings.iclr.cc/paper_files/paper/2024/file/3ba4d47a83e498c2b1a0868cba20f6de-Paper-Conference.pdf",
+        "",
+        "Mostrar primero la figura 6 completa, incluyendo su escala. Al avanzar una vez, revelar la ampliación del bloque inferior derecho. La ampliación conserva los modelos y observadores, su orden y los datos. En Quarto/Reveal.js: colocar la ampliación como un fragmento superpuesto a la figura completa, con aparición breve de 400 ms. En PowerPoint, la ampliación tiene una animación de entrada al hacer clic. No es una matriz de confusión de clases."
+      ]
+    },
+    {
+      "id": "s10",
+      "title": "Dos reconstrucciones guiadas por el prompt",
+      "background": "#F8F7F3",
+      "objects": [
+        {
+          "shape_id": "11",
+          "type": "sp",
+          "box": [
+            72.0,
+            45.0,
+            1136.0,
+            100.0
+          ],
+          "paragraphs": [
+            "Dos reconstrucciones guiadas por el prompt"
+          ]
+        },
+        {
+          "shape_id": "2",
+          "type": "sp",
+          "box": [
+            1120.0,
+            678.0,
+            90.0,
+            24.0
+          ],
+          "paragraphs": [
+            "09 / 22"
+          ]
+        },
+        {
+          "shape_id": "3",
+          "type": "sp",
+          "box": [
+            72.0,
+            162.0,
+            340.0,
+            42.0
+          ],
+          "paragraphs": [
+            "Estímulo"
+          ]
+        },
+        {
+          "shape_id": "4",
+          "type": "sp",
+          "box": [
+            462.0,
+            162.0,
+            340.0,
+            42.0
+          ],
+          "paragraphs": [
+            "Prompt: conejo"
+          ]
+        },
+        {
+          "shape_id": "5",
+          "type": "sp",
+          "box": [
+            852.0,
+            162.0,
+            340.0,
+            42.0
+          ],
+          "paragraphs": [
+            "Prompt: pato"
+          ]
+        },
+        {
+          "shape_id": "6",
+          "type": "pic",
+          "box": [
+            72.0,
+            279.39391076115487,
+            340.0,
+            181.21207349081365
+          ],
+          "image": "assets/revised/image9.png",
+          "sha256": "f2d71ae64c973248943253c9be72a29953d9fd2a18fd24ab222a985ea696ca0c"
+        },
+        {
+          "shape_id": "7",
+          "type": "pic",
+          "box": [
+            480.2283464566929,
+            220.0,
+            303.54330708661416,
+            300.0
+          ],
+          "image": "assets/revised/image10.png",
+          "sha256": "5df15f45608ebab0f89ddb747c154f81448613c50f17be96d9f1c8224b1d30ad"
+        },
+        {
+          "shape_id": "8",
+          "type": "pic",
+          "box": [
+            857.2362204724409,
+            220.0,
+            329.5275590551181,
+            300.0
+          ],
+          "image": "assets/revised/image11.png",
+          "sha256": "cc870032f7e91ae926d1121404e09a8e5951323a04c0c8ac518429812c2253b1"
+        },
+        {
+          "shape_id": "9",
+          "type": "sp",
+          "box": [
+            72.0,
+            590.0,
+            1136.0,
+            64.0
+          ],
+          "paragraphs": [
+            "La instrucción favorece una interpretación compatible con la imagen"
+          ]
+        },
+        {
+          "shape_id": "10",
+          "type": "sp",
+          "box": [
+            72.0,
+            678.0,
+            1020.0,
+            24.0
+          ],
+          "paragraphs": [
+            "Jaini, Clark y Geirhos (2024), Fig. 7. Estímulo y salidas de Imagen"
+          ]
+        }
+      ],
+      "notes": [
+        "CONTENIDO 9/22 · 14:00–15:00 · 1 min Recuperar las respuestas del público en la apertura. Revelar las dos reconstrucciones para comparar el estímulo y las reconstrucciones de Imagen. Los prompts indican conejo y pato; permiten producir dos interpretaciones, pero no establecen cuál aparece espontáneamente. TRANSICIÓN La instrucción también forma parte de la interpretación que observamos. FUENTES Y RECURSOS https://proceedings.iclr.cc/paper_files/paper/2024/file/3ba4d47a83e498c2b1a0868cba20f6de-Paper-Conference.pdf",
+        "",
+        "Estas reconstrucciones no establecen alternancia perceptual ni una preferencia espontánea."
+      ]
+    },
+    {
+      "id": "s11",
+      "title": "Reconstrucciones de la roca con Imagen",
+      "background": "#F8F7F3",
+      "objects": [
+        {
+          "shape_id": "11",
+          "type": "sp",
+          "box": [
+            72.0,
+            45.0,
+            1136.0,
+            100.0
+          ],
+          "paragraphs": [
+            "Reconstrucciones de la roca con Imagen"
+          ]
+        },
+        {
+          "shape_id": "2",
+          "type": "sp",
+          "box": [
+            1120.0,
+            678.0,
+            90.0,
+            24.0
+          ],
+          "paragraphs": [
+            "10 / 22"
+          ]
+        },
+        {
+          "shape_id": "3",
+          "type": "sp",
+          "box": [
+            72.0,
+            161.0,
+            340.0,
+            38.0
+          ],
+          "paragraphs": [
+            "Entrada"
+          ]
+        },
+        {
+          "shape_id": "4",
+          "type": "sp",
+          "box": [
+            462.0,
+            161.0,
+            340.0,
+            70.0
+          ],
+          "paragraphs": [
+            "“An image of a face.”"
+          ]
+        },
+        {
+          "shape_id": "5",
+          "type": "sp",
+          "box": [
+            852.0,
+            161.0,
+            340.0,
+            70.0
+          ],
+          "paragraphs": [
+            "“A rock.”"
+          ]
+        },
+        {
+          "shape_id": "6",
+          "type": "pic",
+          "box": [
+            90.36955380577427,
+            230.0,
+            303.26089238845145,
+            310.0
+          ],
+          "image": "assets/revised/image12.png",
+          "sha256": "1e63c82e5643b68933b660b989ad6b61b1c9f04a42918b7eed69d425345c6bf2"
+        },
+        {
+          "shape_id": "7",
+          "type": "pic",
+          "box": [
+            462.0,
+            236.70215223097114,
+            340.0,
+            296.5956955380577
+          ],
+          "image": "assets/revised/image13.png",
+          "sha256": "a03d749084c5ef534cca9e9fc58f350ac151e6462bf62b23ffb33162ab1a5874"
+        },
+        {
+          "shape_id": "8",
+          "type": "pic",
+          "box": [
+            852.0,
+            230.11107611548556,
+            340.0,
+            309.77774278215225
+          ],
+          "image": "assets/revised/image14.png",
+          "sha256": "553481dbf73980ab7be9a552f443e83a454d4298e893e17dba8ba170b73110cc"
+        },
+        {
+          "shape_id": "9",
+          "type": "sp",
+          "box": [
+            72.0,
+            596.0,
+            1136.0,
+            48.0
+          ],
+          "paragraphs": [
+            "Las reconstrucciones responden a la instrucción"
+          ]
+        },
+        {
+          "shape_id": "10",
+          "type": "sp",
+          "box": [
+            72.0,
+            678.0,
+            1020.0,
+            24.0
+          ],
+          "paragraphs": [
+            "Jaini, Clark y Geirhos (2024), Fig. 7. Entrada y salidas originales de Imagen"
+          ]
+        }
+      ],
+      "notes": [
+        "Comparar la roca original con la fila de Imagen de la figura 7. Con el prompt de rostro, Imagen reconstruye un rostro en una posición y orientación compatibles con la pareidolia. Con el prompt de roca, conserva una formación rocosa. Es evidencia cualitativa de reconstrucción condicionada por texto. No evalúa una interpretación espontánea ni una alternancia perceptual del modelo. Fuente: https://proceedings.iclr.cc/paper_files/paper/2024/file/3ba4d47a83e498c2b1a0868cba20f6de-Paper-Conference.pdf#page=8"
+      ]
+    },
+    {
+      "id": "s12",
+      "title": "Un modelo de video ante una imagen Una entrada visual y una instrucción para producir una transformación Veo 3 · Wiedemer et al. (2025)",
+      "background": "#142F3C",
+      "objects": [
+        {
+          "shape_id": "5",
+          "type": "sp",
+          "box": [
+            1120.0,
+            678.0,
+            90.0,
+            24.0
+          ],
+          "paragraphs": [
+            "11 / 22"
+          ]
+        },
+        {
+          "shape_id": "2",
+          "type": "sp",
+          "box": [
+            72.0,
+            160.0,
+            1136.0,
+            190.0
+          ],
+          "paragraphs": [
+            "Un modelo de video",
+            "ante una imagen"
+          ]
+        },
+        {
+          "shape_id": "3",
+          "type": "sp",
+          "box": [
+            72.0,
+            418.0,
+            1136.0,
+            130.0
+          ],
+          "paragraphs": [
+            "Una entrada visual y una instrucción",
+            "para producir una transformación"
+          ]
+        },
+        {
+          "shape_id": "4",
+          "type": "sp",
+          "box": [
+            72.0,
+            620.0,
+            1050.0,
+            32.0
+          ],
+          "paragraphs": [
+            "Veo 3 · Wiedemer et al. (2025)"
+          ]
+        }
+      ],
+      "notes": [
+        "CONTENIDO 11/22 · 17:00–18:00 · 1 min Introducir a David Fleet como inspiración y a Wiedemer et al. como autores de la evidencia. Veo 3 recibe una imagen y una instrucción; la API incluye reescritura del prompt. Zero-shot significa sin adaptación específica a estas tareas, no ausencia de datos relacionados durante preentrenamiento. TRANSICIÓN Primero observemos los contornos de una escena. FUENTES Y RECURSOS https://arxiv.org/abs/2509.20328v2"
+      ]
+    },
+    {
+      "id": "s13",
+      "title": "Contornos de la escena",
+      "background": "#F8F7F3",
+      "objects": [
+        {
+          "shape_id": "11",
+          "type": "sp",
+          "box": [
+            72.0,
+            45.0,
+            1136.0,
+            100.0
+          ],
+          "paragraphs": [
+            "Contornos de la escena"
+          ]
+        },
+        {
+          "shape_id": "2",
+          "type": "sp",
+          "box": [
+            1120.0,
+            678.0,
+            90.0,
+            24.0
+          ],
+          "paragraphs": [
+            "12 / 22"
+          ]
+        },
+        {
+          "shape_id": "3",
+          "type": "sp",
+          "box": [
+            72.0,
+            151.0,
+            336.0,
+            35.0
+          ],
+          "paragraphs": [
+            "Entrada"
+          ]
+        },
+        {
+          "shape_id": "4",
+          "type": "sp",
+          "box": [
+            472.0,
+            151.0,
+            736.0,
+            35.0
+          ],
+          "paragraphs": [
+            "Video generado"
+          ]
+        },
+        {
+          "shape_id": "5",
+          "type": "pic",
+          "box": [
+            72.0,
+            202.0,
+            336.0,
+            189.0
+          ],
+          "image": "assets/revised/image15.png",
+          "sha256": "32d13b3626f84d467245b34b4fd1b4dc4cc1e174b90929d19fc75a1c8eb0d0f6"
+        },
+        {
+          "shape_id": "6",
+          "type": "pic",
+          "box": [
+            472.0,
+            202.0,
+            736.0,
+            414.0
+          ],
+          "video": "assets/revised/retained_media16.mp4",
+          "poster": "assets/revised/poster-retained_media16.png",
+          "poster_second": 0,
+          "sha256": "42c7be4a6e2821c5c53dd1895e57fcdcb818031dab6a418024f14010450f8f19"
+        },
+        {
+          "shape_id": "7",
+          "type": "sp",
+          "box": [
+            72.0,
+            435.0,
+            336.0,
+            125.0
+          ],
+          "paragraphs": [
+            "«Convertir los bordes",
+            "en contornos negros»"
+          ]
+        },
+        {
+          "shape_id": "8",
+          "type": "sp",
+          "box": [
+            72.0,
+            566.0,
+            336.0,
+            64.0
+          ],
+          "paragraphs": [
+            "11/12"
+          ]
+        },
+        {
+          "shape_id": "9",
+          "type": "sp",
+          "box": [
+            72.0,
+            638.0,
+            336.0,
+            30.0
+          ],
+          "paragraphs": [
+            "Éxitos según los autores"
+          ]
+        },
+        {
+          "shape_id": "10",
+          "type": "sp",
+          "box": [
+            72.0,
+            678.0,
+            1020.0,
+            24.0
+          ],
+          "paragraphs": [
+            "Wiedemer et al. (2025), Fig. 10. Demo original de 8 s, evaluación de 12 generaciones"
+          ]
+        }
+      ],
+      "notes": [
+        "CONTENIDO 12/22 · 18:00–20:00 · 2 min Observar la entrada, leer la instrucción y reproducir con clic. Señalar estructuras que permanecen. Este ejemplo reporta éxito en 11 de 12 generaciones; no confundirlo con la evaluación cuantitativa separada. La demo muestra una capacidad y no mide por sí sola semejanza humana. La API reescribe el prompt mediante un LLM. La demostración no equivale a una comparación con observadores humanos. TRANSICIÓN Ahora los contornos se convierten en regiones de objetos. FUENTES Y RECURSOS https://arxiv.org/abs/2509.20328v2 https://video-zero-shot.github.io/mp4/edge_detection.mp4",
+        "",
+        "Los recuentos reflejan la valoración de los autores. No comparan directamente el comportamiento de Veo con el de participantes humanos."
+      ]
+    },
+    {
+      "id": "s14",
+      "title": "Separar objetos en regiones",
+      "background": "#F8F7F3",
+      "objects": [
+        {
+          "shape_id": "11",
+          "type": "sp",
+          "box": [
+            72.0,
+            45.0,
+            1136.0,
+            100.0
+          ],
+          "paragraphs": [
+            "Separar objetos en regiones"
+          ]
+        },
+        {
+          "shape_id": "2",
+          "type": "sp",
+          "box": [
+            1120.0,
+            678.0,
+            90.0,
+            24.0
+          ],
+          "paragraphs": [
+            "13 / 22"
+          ]
+        },
+        {
+          "shape_id": "3",
+          "type": "sp",
+          "box": [
+            72.0,
+            151.0,
+            336.0,
+            35.0
+          ],
+          "paragraphs": [
+            "Entrada"
+          ]
+        },
+        {
+          "shape_id": "4",
+          "type": "sp",
+          "box": [
+            472.0,
+            151.0,
+            736.0,
+            35.0
+          ],
+          "paragraphs": [
+            "Video generado"
+          ]
+        },
+        {
+          "shape_id": "5",
+          "type": "pic",
+          "box": [
+            72.0,
+            202.0,
+            336.0,
+            189.0
+          ],
+          "image": "assets/revised/image17.png",
+          "sha256": "df7415fe09f2fc9c42a473b6e47c8f2ba86cb6585ab268007bff8c88eb9e0d96"
+        },
+        {
+          "shape_id": "6",
+          "type": "pic",
+          "box": [
+            472.0,
+            202.0,
+            736.0,
+            414.0
+          ],
+          "video": "assets/revised/retained_media19.mp4",
+          "poster": "assets/revised/poster-retained_media19.png",
+          "poster_second": 0,
+          "sha256": "aa333e4df1c1a065a4673be70b11860b28c1ffcf942315c1c076b9e33ed4830f"
+        },
+        {
+          "shape_id": "7",
+          "type": "sp",
+          "box": [
+            72.0,
+            435.0,
+            336.0,
+            125.0
+          ],
+          "paragraphs": [
+            "«Asignar un color plano",
+            "a cada entidad»"
+          ]
+        },
+        {
+          "shape_id": "8",
+          "type": "sp",
+          "box": [
+            72.0,
+            566.0,
+            336.0,
+            64.0
+          ],
+          "paragraphs": [
+            "4/12"
+          ]
+        },
+        {
+          "shape_id": "9",
+          "type": "sp",
+          "box": [
+            72.0,
+            638.0,
+            336.0,
+            30.0
+          ],
+          "paragraphs": [
+            "Éxitos según los autores"
+          ]
+        },
+        {
+          "shape_id": "10",
+          "type": "sp",
+          "box": [
+            72.0,
+            678.0,
+            1020.0,
+            24.0
+          ],
+          "paragraphs": [
+            "Wiedemer et al. (2025), Fig. 11. Demo original de 8 s, evaluación de 12 generaciones"
+          ]
+        }
+      ],
+      "notes": [
+        "CONTENIDO 13/22 · 20:00–22:00 · 2 min Reproducir con clic y pausar cerca del segundo 6 para observar colores de regiones distintas. La animación posterior aproxima los dos colores. Esta demo reporta éxito en 4 de 12 generaciones: mostrar un éxito no significa que todos los intentos lo sean. La API reescribe el prompt mediante un LLM. La demostración no equivale a una comparación con observadores humanos. TRANSICIÓN ¿Y si el objeto está oculto entre manchas? FUENTES Y RECURSOS https://arxiv.org/abs/2509.20328v2 https://video-zero-shot.github.io/mp4/segmentation.mp4",
+        "",
+        "Los recuentos reflejan la valoración de los autores. No comparan directamente el comportamiento de Veo con el de participantes humanos."
+      ]
+    },
+    {
+      "id": "s15",
+      "title": "Reconocer el dálmata",
+      "background": "#F8F7F3",
+      "objects": [
+        {
+          "shape_id": "11",
+          "type": "sp",
+          "box": [
+            72.0,
+            45.0,
+            1136.0,
+            100.0
+          ],
+          "paragraphs": [
+            "Reconocer el dálmata"
+          ]
+        },
+        {
+          "shape_id": "2",
+          "type": "sp",
+          "box": [
+            1120.0,
+            678.0,
+            90.0,
+            24.0
+          ],
+          "paragraphs": [
+            "14 / 22"
+          ]
+        },
+        {
+          "shape_id": "3",
+          "type": "sp",
+          "box": [
+            72.0,
+            151.0,
+            336.0,
+            35.0
+          ],
+          "paragraphs": [
+            "Entrada"
+          ]
+        },
+        {
+          "shape_id": "4",
+          "type": "sp",
+          "box": [
+            472.0,
+            151.0,
+            736.0,
+            35.0
+          ],
+          "paragraphs": [
+            "Video generado"
+          ]
+        },
+        {
+          "shape_id": "5",
+          "type": "pic",
+          "box": [
+            72.0,
+            202.0,
+            336.0,
+            189.0
+          ],
+          "image": "assets/revised/image19.png",
+          "sha256": "dfb8098c755947899b78f207a3e9bf9eb33f655b5534ecccf974fce632e065c0"
+        },
+        {
+          "shape_id": "6",
+          "type": "pic",
+          "box": [
+            472.0,
+            202.0,
+            736.0,
+            414.0
+          ],
+          "video": "assets/revised/retained_media24.mp4",
+          "poster": "assets/revised/poster-retained_media24.png",
+          "poster_second": 0,
+          "sha256": "29a2f57c2599ec2b6380a7d12acdc5399519c5e4f4d33d82a7e8313cc23429ce"
+        },
+        {
+          "shape_id": "7",
+          "type": "sp",
+          "box": [
+            72.0,
+            435.0,
+            336.0,
+            125.0
+          ],
+          "paragraphs": [
+            "«Mantener la cámara",
+            "estática»"
+          ]
+        },
+        {
+          "shape_id": "8",
+          "type": "sp",
+          "box": [
+            72.0,
+            566.0,
+            336.0,
+            64.0
+          ],
+          "paragraphs": [
+            "12/12"
+          ]
+        },
+        {
+          "shape_id": "9",
+          "type": "sp",
+          "box": [
+            72.0,
+            638.0,
+            336.0,
+            30.0
+          ],
+          "paragraphs": [
+            "Éxitos según los autores"
+          ]
+        },
+        {
+          "shape_id": "10",
+          "type": "sp",
+          "box": [
+            72.0,
+            678.0,
+            1020.0,
+            24.0
+          ],
+          "paragraphs": [
+            "Wiedemer et al. (2025), Fig. 18. Demo original de 8 s, evaluación de 12 generaciones"
+          ]
+        }
+      ],
+      "notes": [
+        "CONTENIDO 14/22 · 22:00–24:30 · 2.5 min Mostrar por primera vez aquí la imagen del dálmata. Preguntar qué objeto reconocen; esperar antes de reproducir. El prompt pide cámara estática sin nombrar al perro. Comparar con las reconstrucciones guiadas por etiquetas; sigue siendo un ejemplo cualitativo sin comparación psicofísica con humanos. La API reescribe el prompt mediante un LLM. La demostración no equivale a una comparación con observadores humanos. TRANSICIÓN Recuperemos ahora el gato con textura de elefante. FUENTES Y RECURSOS https://arxiv.org/abs/2509.20328v2 https://video-zero-shot.github.io/mp4/dalmatian.mp4",
+        "",
+        "Los recuentos reflejan la valoración de los autores. No comparan directamente el comportamiento de Veo con el de participantes humanos."
+      ]
+    },
+    {
+      "id": "s16",
+      "title": "La forma ante una textura diferente",
+      "background": "#F8F7F3",
+      "objects": [
+        {
+          "shape_id": "11",
+          "type": "sp",
+          "box": [
+            72.0,
+            45.0,
+            1136.0,
+            100.0
+          ],
+          "paragraphs": [
+            "La forma ante una textura diferente"
+          ]
+        },
+        {
+          "shape_id": "2",
+          "type": "sp",
+          "box": [
+            1120.0,
+            678.0,
+            90.0,
+            24.0
+          ],
+          "paragraphs": [
+            "15 / 22"
+          ]
+        },
+        {
+          "shape_id": "3",
+          "type": "sp",
+          "box": [
+            72.0,
+            151.0,
+            336.0,
+            35.0
+          ],
+          "paragraphs": [
+            "Entrada"
+          ]
+        },
+        {
+          "shape_id": "4",
+          "type": "sp",
+          "box": [
+            472.0,
+            151.0,
+            736.0,
+            35.0
+          ],
+          "paragraphs": [
+            "Video generado"
+          ]
+        },
+        {
+          "shape_id": "5",
+          "type": "pic",
+          "box": [
+            72.0,
+            202.0,
+            336.0,
+            189.0
+          ],
+          "image": "assets/revised/image21.png",
+          "sha256": "4f08abca91895c4ed537d97ae9a77a90d0eb7adb95381deed2ceffe04e02cb6b"
+        },
+        {
+          "shape_id": "6",
+          "type": "pic",
+          "box": [
+            472.0,
+            202.0,
+            736.0,
+            414.0
+          ],
+          "video": "assets/revised/retained_media27.mp4",
+          "poster": "assets/revised/poster-retained_media27.png",
+          "poster_second": 0,
+          "sha256": "24d7419e27c66a4d761e82d1f0c30be83d7578d68a6ad6a54572628aa0ed3727"
+        },
+        {
+          "shape_id": "7",
+          "type": "sp",
+          "box": [
+            72.0,
+            435.0,
+            336.0,
+            125.0
+          ],
+          "paragraphs": [
+            "«Dibujar al animal",
+            "junto a su familia»"
+          ]
+        },
+        {
+          "shape_id": "8",
+          "type": "sp",
+          "box": [
+            72.0,
+            566.0,
+            336.0,
+            64.0
+          ],
+          "paragraphs": [
+            "12/12"
+          ]
+        },
+        {
+          "shape_id": "9",
+          "type": "sp",
+          "box": [
+            72.0,
+            638.0,
+            336.0,
+            30.0
+          ],
+          "paragraphs": [
+            "Éxitos según los autores"
+          ]
+        },
+        {
+          "shape_id": "10",
+          "type": "sp",
+          "box": [
+            72.0,
+            678.0,
+            1020.0,
+            24.0
+          ],
+          "paragraphs": [
+            "Wiedemer et al. (2025), Fig. 19. Demo original de 8 s, evaluación de 12 generaciones"
+          ]
+        }
+      ],
+      "notes": [
+        "CONTENIDO 15/22 · 24:30–27:00 · 2.5 min Recordar que al principio preguntamos qué señal guía la clasificación. Aquí la pregunta es cómo Veo transforma ese estímulo al pedir un animal junto a su familia. Reproducir y comentar la salida. No atribuir a Veo el 99% de Imagen: un clip y un benchmark agregan evidencias diferentes. La API reescribe el prompt mediante un LLM. La demostración no equivale a una comparación con observadores humanos. TRANSICIÓN Hasta ahora vimos imágenes y vídeos. Pero también encontramos ambigüedades al interpretar palabras. FUENTES Y RECURSOS https://arxiv.org/abs/2509.20328v2 https://video-zero-shot.github.io/mp4/texture_shape.mp4",
+        "",
+        "Los recuentos reflejan la valoración de los autores. No comparan directamente el comportamiento de Veo con el de participantes humanos."
+      ]
+    },
+    {
+      "id": "s17",
+      "title": "Una frase, dos interpretaciones",
+      "background": "#F8F7F3",
+      "objects": [
+        {
+          "shape_id": "9",
+          "type": "sp",
+          "box": [
+            72.0,
+            45.0,
+            1136.0,
+            100.0
+          ],
+          "paragraphs": [
+            "Una frase, dos interpretaciones"
+          ]
+        },
+        {
+          "shape_id": "2",
+          "type": "sp",
+          "box": [
+            1120.0,
+            678.0,
+            90.0,
+            24.0
+          ],
+          "paragraphs": [
+            "16 / 22"
+          ]
+        },
+        {
+          "shape_id": "3",
+          "type": "sp",
+          "box": [
+            72.0,
+            190.0,
+            1136.0,
+            120.0
+          ],
+          "paragraphs": [
+            "«Cada agricultor tiene un burro»"
+          ]
+        },
+        {
+          "shape_id": "4",
+          "type": "sp",
+          "box": [
+            72.0,
+            373.0,
+            520.0,
+            46.0
+          ],
+          "paragraphs": [
+            "Lectura A"
+          ]
+        },
+        {
+          "shape_id": "5",
+          "type": "sp",
+          "box": [
+            72.0,
+            439.0,
+            520.0,
+            120.0
+          ],
+          "paragraphs": [
+            "Cada agricultor tiene",
+            "un burro, posiblemente distinto."
+          ]
+        },
+        {
+          "shape_id": "6",
+          "type": "sp",
+          "box": [
+            688.0,
+            373.0,
+            520.0,
+            46.0
+          ],
+          "paragraphs": [
+            "Lectura B"
+          ]
+        },
+        {
+          "shape_id": "7",
+          "type": "sp",
+          "box": [
+            688.0,
+            439.0,
+            520.0,
+            120.0
+          ],
+          "paragraphs": [
+            "Todos comparten",
+            "un mismo burro."
+          ]
+        },
+        {
+          "shape_id": "8",
+          "type": "sp",
+          "box": [
+            72.0,
+            678.0,
+            1020.0,
+            24.0
+          ],
+          "paragraphs": [
+            "Kamath et al. (2024), Fig. 1. Ejemplo adaptado al español"
+          ]
+        }
+      ],
+      "notes": [
+        "CONTENIDO 16/22 · 27:00–28:30 · 1.5 min Mostrar la frase antes de las dos lecturas. Preguntar qué interpretación parece más natural y esperar respuestas. Revelar las opciones. La lectura A admite burros distintos, pero no exige que sean distintos; B implica un burro compartido. Original: Every farmer owns a donkey. La adaptación española sirve para participación; no fue el estímulo medido. TRANSICIÓN ¿Las preferencias de los modelos se parecen a las de los participantes humanos? FUENTES Y RECURSOS https://aclanthology.org/2024.tacl-1.41/"
+      ]
+    },
+    {
+      "id": "s18",
+      "title": "Coincidencia con la lectura mayoritaria",
+      "background": "#F8F7F3",
+      "objects": [
+        {
+          "shape_id": "7",
+          "type": "sp",
+          "box": [
+            72.0,
+            45.0,
+            1136.0,
+            100.0
+          ],
+          "paragraphs": [
+            "Coincidencia con la lectura mayoritaria"
+          ]
+        },
+        {
+          "shape_id": "2",
+          "type": "sp",
+          "box": [
+            1120.0,
+            678.0,
+            90.0,
+            24.0
+          ],
+          "paragraphs": [
+            "17 / 22"
+          ]
+        },
+        {
+          "shape_id": "3",
+          "type": "graphicFrame",
+          "box": [
+            72.0,
+            176.0,
+            1136.0,
+            355.0
+          ],
+          "series": [
+            {
+              "name": "Resultado",
+              "categories": [
+                "Humanos",
+                "Llama 2, 70B",
+                "GPT-3.5, td003",
+                "GPT-4"
+              ],
+              "values": [
+                90.0,
+                88.0,
+                91.0,
+                98.0
+              ],
+              "plus": [],
+              "minus": []
+            }
+          ]
+        },
+        {
+          "shape_id": "4",
+          "type": "sp",
+          "box": [
+            72.0,
+            566.0,
+            1136.0,
+            45.0
+          ],
+          "paragraphs": [
+            "GPT-4: 98 % con la frase, 75 % sin ella"
+          ]
+        },
+        {
+          "shape_id": "5",
+          "type": "sp",
+          "box": [
+            72.0,
+            619.0,
+            1100.0,
+            36.0
+          ],
+          "paragraphs": [
+            "153 frases inglesas seleccionadas por alto acuerdo humano"
+          ]
+        },
+        {
+          "shape_id": "6",
+          "type": "sp",
+          "box": [
+            72.0,
+            678.0,
+            1020.0,
+            24.0
+          ],
+          "paragraphs": [
+            "Kamath et al. (2024), Tabla 3. Modelos y versiones del estudio"
+          ]
+        }
+      ],
+      "notes": [
+        "CONTENIDO 17/22 · 28:30–30:30 · 2 min Experimento 1A: elegir entre dos opciones la lectura preferida por la mayoría humana en 153 frases inglesas; opciones permutadas producen 306 ítems. Se conservaron ejemplos con al menos 75% de acuerdo; no representa toda la ambigüedad natural. La línea humana promedia respuestas de 68 participantes frente a la mayoría. GPT-4 llega a 98%, frente a 75% sin la frase; no concluir superioridad humana general. Los datos pertenecen a las versiones del estudio, no a modelos actuales ni a la traducción. TRANSICIÓN Además de dos lecturas semánticas, el contexto puede invertir lo que parecen decir las palabras. FUENTES Y RECURSOS https://aclanthology.org/2024.tacl-1.41/"
+      ]
+    },
+    {
+      "id": "s19",
+      "title": "El contexto cambia el significado",
+      "background": "#F8F7F3",
+      "objects": [
+        {
+          "shape_id": "10",
+          "type": "sp",
+          "box": [
+            72.0,
+            45.0,
+            1136.0,
+            100.0
+          ],
+          "paragraphs": [
+            "El contexto cambia el significado"
+          ]
+        },
+        {
+          "shape_id": "2",
+          "type": "sp",
+          "box": [
+            1120.0,
+            678.0,
+            90.0,
+            24.0
+          ],
+          "paragraphs": [
+            "18 / 22"
+          ]
+        },
+        {
+          "shape_id": "3",
+          "type": "sp",
+          "box": [
+            72.0,
+            166.0,
+            1136.0,
+            70.0
+          ],
+          "paragraphs": [
+            "Dos hijos discuten en el asiento trasero. Su padre comenta:"
+          ]
+        },
+        {
+          "shape_id": "4",
+          "type": "sp",
+          "box": [
+            72.0,
+            276.0,
+            1136.0,
+            100.0
+          ],
+          "paragraphs": [
+            "“Oh, it is so pleasant here.”"
+          ]
+        },
+        {
+          "shape_id": "5",
+          "type": "sp",
+          "box": [
+            72.0,
+            431.0,
+            520.0,
+            43.0
+          ],
+          "paragraphs": [
+            "Lectura literal"
+          ]
+        },
+        {
+          "shape_id": "6",
+          "type": "sp",
+          "box": [
+            72.0,
+            495.0,
+            520.0,
+            95.0
+          ],
+          "paragraphs": [
+            "Disfruta escuchando",
+            "la discusión."
+          ]
+        },
+        {
+          "shape_id": "7",
+          "type": "sp",
+          "box": [
+            688.0,
+            431.0,
+            520.0,
+            43.0
+          ],
+          "paragraphs": [
+            "Lectura pragmática"
+          ]
+        },
+        {
+          "shape_id": "8",
+          "type": "sp",
+          "box": [
+            688.0,
+            495.0,
+            520.0,
+            95.0
+          ],
+          "paragraphs": [
+            "Le molesta la discusión",
+            "y quiere que termine."
+          ]
+        },
+        {
+          "shape_id": "9",
+          "type": "sp",
+          "box": [
+            72.0,
+            678.0,
+            1020.0,
+            24.0
+          ],
+          "paragraphs": [
+            "Hu et al. (2023), Tabla 1. Cita original, contexto y lecturas adaptados"
+          ]
+        }
+      ],
+      "notes": [
+        "CONTENIDO 18/22 · 30:30–32:00 · 1.5 min Leer el contexto y la frase, esperar respuestas y revelar las dos interpretaciones. Se espera la lectura pragmática de molestia. Original de la Tabla 1: It is a holiday; Stefan and Kim argue in the car; their father says “Oh, it is so pleasant here.” El ejemplo en español es una adaptación abreviada, sin resultados experimentales propios. TRANSICIÓN Hu y colegas compararon también el tipo de respuesta equivocada. FUENTES Y RECURSOS https://aclanthology.org/2023.acl-long.230/"
+      ]
+    },
+    {
+      "id": "s20",
+      "title": "Interpretaciones de la ironía",
+      "background": "#F8F7F3",
+      "objects": [
+        {
+          "shape_id": "7",
+          "type": "sp",
+          "box": [
+            72.0,
+            45.0,
+            1136.0,
+            100.0
+          ],
+          "paragraphs": [
+            "Interpretaciones de la ironía"
+          ]
+        },
+        {
+          "shape_id": "2",
+          "type": "sp",
+          "box": [
+            1120.0,
+            678.0,
+            90.0,
+            24.0
+          ],
+          "paragraphs": [
+            "19 / 22"
+          ]
+        },
+        {
+          "shape_id": "3",
+          "type": "graphicFrame",
+          "box": [
+            72.0,
+            153.0,
+            1136.0,
+            420.0
+          ],
+          "series": [
+            {
+              "name": "'Ironía'!$B$1Humanos",
+              "categories": [
+                "Pragmática correcta",
+                "Literal"
+              ],
+              "values": [
+                0.9194652406417112,
+                0.05657754010695187
+              ],
+              "plus": [
+                0.02567112299465246,
+                0.02417914438502673
+              ],
+              "minus": [
+                0.03048395721925123,
+                0.02011229946524064
+              ]
+            },
+            {
+              "name": "'Ironía'!$C$1text-davinci-002",
+              "categories": [
+                "Pragmática correcta",
+                "Literal"
+              ],
+              "values": [
+                0.5820101005239116,
+                0.3985775709278547
+              ],
+              "plus": [
+                0.07706709437830828,
+                0.07882145925534745
+              ],
+              "minus": [
+                0.08228826255080318,
+                0.07709032629754448
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": "4",
+          "type": "sp",
+          "box": [
+            72.0,
+            586.0,
+            1136.0,
+            46.0
+          ],
+          "paragraphs": [
+            "Humanos: frecuencia de elección. Modelo: probabilidad asignada"
+          ]
+        },
+        {
+          "shape_id": "5",
+          "type": "sp",
+          "box": [
+            72.0,
+            632.0,
+            1090.0,
+            31.0
+          ],
+          "paragraphs": [
+            "IC 95 %. Distractores omitidos, sin renormalizar"
+          ]
+        },
+        {
+          "shape_id": "6",
+          "type": "sp",
+          "box": [
+            72.0,
+            678.0,
+            1020.0,
+            24.0
+          ],
+          "paragraphs": [
+            "Hu et al. (2023), Fig. 3. Recalculado desde los datos originales"
+          ]
+        }
+      ],
+      "notes": [
+        "CONTENIDO 19/22 · 32:00–34:00 · 2 min El contexto puede invertir la lectura literal: es otro criterio de alineación. Fig. 3 recalculada desde Human_Irony.csv, cinco archivos principales text-davinci-002 (semillas 0–4, cero ejemplos) e IronyKeyComplex.txt. Humanos: frecuencias por estímulo y media de 25 estímulos. Modelo: media de probabilidades de 25 estímulos × cinco permutaciones (125 filas), conservando el mapeo actualizado del notebook. Pragmática correcta: humanos 0,919465, modelo 0,582010. Literal: humanos 0,056578, modelo 0,398578. Se omiten distractores sin renormalizar. IC 95% por bootstrap percentil de filas, 1000 remuestreos como el barplot del notebook, semilla fijada a 20261008. No es bootstrap por participante ni por estímulo agrupado del modelo. La frecuencia de elección humana y la probabilidad asignada del modelo son medidas diferentes. Hu evalúa siete fenómenos; aquí solo ironía y un modelo histórico. La similitud en errores no demuestra mecanismos idénticos. https://github.com/jennhu/lm-pragmatics/blob/master/analysis/main.ipynb TRANSICIÓN Una pregunta cotidiana puede ser ambigua incluso cuando ninguna palabra es irónica. FUENTES Y RECURSOS https://aclanthology.org/2023.acl-long.230/"
+      ]
+    },
+    {
+      "id": "s21",
+      "title": "Ambigüedad en preguntas",
+      "background": "#F8F7F3",
+      "objects": [
+        {
+          "shape_id": "12",
+          "type": "sp",
+          "box": [
+            72.0,
+            45.0,
+            1136.0,
+            100.0
+          ],
+          "paragraphs": [
+            "Ambigüedad en preguntas"
+          ]
+        },
+        {
+          "shape_id": "2",
+          "type": "sp",
+          "box": [
+            1120.0,
+            678.0,
+            90.0,
+            24.0
+          ],
+          "paragraphs": [
+            "20 / 22"
+          ]
+        },
+        {
+          "shape_id": "3",
+          "type": "sp",
+          "box": [
+            72.0,
+            174.0,
+            1136.0,
+            100.0
+          ],
+          "paragraphs": [
+            "“Are chiropractors considered doctors?”"
+          ]
+        },
+        {
+          "shape_id": "4",
+          "type": "sp",
+          "box": [
+            72.0,
+            326.0,
+            290.0,
+            53.0
+          ],
+          "paragraphs": [
+            "El título"
+          ]
+        },
+        {
+          "shape_id": "5",
+          "type": "sp",
+          "box": [
+            410.0,
+            326.0,
+            798.0,
+            53.0
+          ],
+          "paragraphs": [
+            "¿Se les llama «doctor»?"
+          ]
+        },
+        {
+          "shape_id": "6",
+          "type": "sp",
+          "box": [
+            72.0,
+            406.0,
+            290.0,
+            53.0
+          ],
+          "paragraphs": [
+            "La formación"
+          ]
+        },
+        {
+          "shape_id": "7",
+          "type": "sp",
+          "box": [
+            410.0,
+            406.0,
+            798.0,
+            53.0
+          ],
+          "paragraphs": [
+            "¿Estudiaron medicina?"
+          ]
+        },
+        {
+          "shape_id": "8",
+          "type": "sp",
+          "box": [
+            72.0,
+            486.0,
+            330.0,
+            53.0
+          ],
+          "paragraphs": [
+            "Sus atribuciones"
+          ]
+        },
+        {
+          "shape_id": "9",
+          "type": "sp",
+          "box": [
+            410.0,
+            486.0,
+            798.0,
+            53.0
+          ],
+          "paragraphs": [
+            "¿Pueden recetar?"
+          ]
+        },
+        {
+          "shape_id": "10",
+          "type": "sp",
+          "box": [
+            72.0,
+            593.0,
+            1136.0,
+            50.0
+          ],
+          "paragraphs": [
+            "La intención del diálogo original: saber si pueden recetar"
+          ]
+        },
+        {
+          "shape_id": "11",
+          "type": "sp",
+          "box": [
+            72.0,
+            678.0,
+            1020.0,
+            24.0
+          ],
+          "paragraphs": [
+            "Srikanth et al. (2025), Fig. 1. Pregunta original, interpretaciones adaptadas"
+          ]
+        }
+      ],
+      "notes": [
+        "CONTENIDO 20/22 · 34:00–35:30 · 1.5 min Preguntar qué información buscarían con esta pregunta. Revelar título, formación y atribuciones; después revelar la intención real del diálogo. Original: Are chiropractors considered doctors? En la Fig. 1, la respuesta aborda título y formación, pero quien pregunta aclara que quería saber si podían recetar medicamentos. Presentar la interacción como ejemplo de interpretación, sin dar consejo médico. TRANSICIÓN Podemos comparar qué partes del espacio de interpretaciones cubren humanos y modelos. FUENTES Y RECURSOS https://aclanthology.org/2025.acl-long.160/"
+      ]
+    },
+    {
+      "id": "s22",
+      "title": "Los modelos cubren más interpretaciones",
+      "background": "#F8F7F3",
+      "objects": [
+        {
+          "shape_id": "7",
+          "type": "sp",
+          "box": [
+            72.0,
+            45.0,
+            1136.0,
+            100.0
+          ],
+          "paragraphs": [
+            "Los modelos cubren más interpretaciones"
+          ]
+        },
+        {
+          "shape_id": "2",
+          "type": "sp",
+          "box": [
+            1120.0,
+            678.0,
+            90.0,
+            24.0
+          ],
+          "paragraphs": [
+            "21 / 22"
+          ]
+        },
+        {
+          "shape_id": "3",
+          "type": "graphicFrame",
+          "box": [
+            72.0,
+            193.0,
+            1136.0,
+            310.0
+          ],
+          "series": [
+            {
+              "name": "Resultado",
+              "categories": [
+                "Respuestas humanas",
+                "Respuestas de LLMs"
+              ],
+              "values": [
+                44.0,
+                77.0
+              ],
+              "plus": [],
+              "minus": []
+            }
+          ]
+        },
+        {
+          "shape_id": "4",
+          "type": "sp",
+          "box": [
+            72.0,
+            557.0,
+            1136.0,
+            45.0
+          ],
+          "paragraphs": [
+            "Fracción de interpretaciones abordadas por respuesta"
+          ]
+        },
+        {
+          "shape_id": "5",
+          "type": "sp",
+          "box": [
+            72.0,
+            609.0,
+            1136.0,
+            46.0
+          ],
+          "paragraphs": [
+            "Una cobertura mayor no garantiza responder a la intención"
+          ]
+        },
+        {
+          "shape_id": "6",
+          "type": "sp",
+          "box": [
+            72.0,
+            678.0,
+            1020.0,
+            24.0
+          ],
+          "paragraphs": [
+            "Srikanth et al. (2025), §6 y Tabla 1. Promedios de humanos y doce LLMs"
+          ]
+        }
+      ],
+      "notes": [
+        "CONTENIDO 21/22 · 35:30–38:00 · 2.5 min En §6, Srikanth compara respuestas de Reddit y doce LLMs sobre preguntas imperfectas. El espacio se genera y deduplica con modelos, con validación humana: no es una enumeración exhaustiva de todos los significados. Los modelos responden en cinco frases o menos y sin ejemplos. Se asignan interpretaciones a respuestas y se calcula la fracción abordada. Promedios reportados: humanos 44%, modelos 77%; esto es cobertura por respuesta, no precisión ni comprensión. La Tabla 1 desglosa modelos. Humanos tienden a negociar y concentrarse; modelos a cubrir más lecturas. Esa amplitud no garantiza satisfacer la intención. TRANSICIÓN Con visión y lenguaje podemos volver a la pregunta del título. FUENTES Y RECURSOS https://aclanthology.org/2025.acl-long.160/"
+      ]
+    },
+    {
+      "id": "s23",
+      "title": "Resultados y límites",
+      "background": "#142F3C",
+      "objects": [
+        {
+          "shape_id": "6",
+          "type": "sp",
+          "box": [
+            72.0,
+            45.0,
+            1136.0,
+            100.0
+          ],
+          "paragraphs": [
+            "Resultados y límites"
+          ]
+        },
+        {
+          "shape_id": "2",
+          "type": "sp",
+          "box": [
+            1120.0,
+            678.0,
+            90.0,
+            24.0
+          ],
+          "paragraphs": [
+            "22 / 22"
+          ]
+        },
+        {
+          "shape_id": "3",
+          "type": "sp",
+          "box": [
+            72.0,
+            205.0,
+            1136.0,
+            115.0
+          ],
+          "paragraphs": [
+            "Imagen: 99 % de preferencia por la forma"
+          ]
+        },
+        {
+          "shape_id": "4",
+          "type": "sp",
+          "box": [
+            72.0,
+            360.0,
+            1136.0,
+            110.0
+          ],
+          "paragraphs": [
+            "Ironía: 0,92 en humanos y 0,58 en text-davinci-002"
+          ]
+        },
+        {
+          "shape_id": "5",
+          "type": "sp",
+          "box": [
+            72.0,
+            580.0,
+            1136.0,
+            76.0
+          ],
+          "paragraphs": [
+            "Queda por explicar cómo producen estas respuestas"
+          ]
+        }
+      ],
+      "notes": [
+        "CONTENIDO 22/22 · 38:00–40:00 · 2 min Recuperar la cara del café y la experiencia de elegir una lectura. En visión hay coincidencias de preferencia y errores; Veo muestra transformaciones concretas; en lenguaje hay preferencias compartidas, pero también diferencias en errores y espacio de interpretaciones. La conclusión es local a tarea, contexto y evaluación: no una alineación humana global. Terminar en el minuto 40 y abrir preguntas. TRANSICIÓN Abrir las preguntas del público; referencias disponibles a continuación. FUENTES Y RECURSOS https://proceedings.iclr.cc/paper_files/paper/2024/file/3ba4d47a83e498c2b1a0868cba20f6de-Paper-Conference.pdf https://arxiv.org/abs/2509.20328v2 https://aclanthology.org/2024.tacl-1.41/ https://aclanthology.org/2023.acl-long.230/ https://aclanthology.org/2025.acl-long.160/",
+        "",
+        "El 99 % es preferencia por forma entre respuestas de forma o textura. En la comparación de ironía, 0,92 es frecuencia de elección humana y 0,58 es probabilidad asignada por text-davinci-002 a la interpretación pragmática correcta. Son medidas distintas. Los ejemplos permiten comparar conductas, pero no identificar mecanismos internos idénticos."
+      ]
+    },
+    {
+      "id": "s24",
+      "title": "Referencias: visión y video",
+      "background": "#F8F7F3",
+      "objects": [
+        {
+          "shape_id": "10",
+          "type": "sp",
+          "box": [
+            72.0,
+            45.0,
+            1136.0,
+            100.0
+          ],
+          "paragraphs": [
+            "Referencias: visión y video"
+          ]
+        },
+        {
+          "shape_id": "2",
+          "type": "sp",
+          "box": [
+            72.0,
+            170.0,
+            1136.0,
+            38.0
+          ],
+          "paragraphs": [
+            "Wardle et al. (2020)"
+          ]
+        },
+        {
+          "shape_id": "3",
+          "type": "sp",
+          "box": [
+            72.0,
+            211.0,
+            1136.0,
+            62.0
+          ],
+          "paragraphs": [
+            "Rapid and dynamic processing of face pareidolia in the human brain"
+          ]
+        },
+        {
+          "shape_id": "4",
+          "type": "sp",
+          "box": [
+            72.0,
+            287.0,
+            1136.0,
+            38.0
+          ],
+          "paragraphs": [
+            "Clark y Jaini (2023)"
+          ]
+        },
+        {
+          "shape_id": "5",
+          "type": "sp",
+          "box": [
+            72.0,
+            328.0,
+            1136.0,
+            62.0
+          ],
+          "paragraphs": [
+            "Text-to-Image Diffusion Models are Zero-Shot Classifiers"
+          ]
+        },
+        {
+          "shape_id": "6",
+          "type": "sp",
+          "box": [
+            72.0,
+            404.0,
+            1136.0,
+            38.0
+          ],
+          "paragraphs": [
+            "Jaini, Clark y Geirhos (2024)"
+          ]
+        },
+        {
+          "shape_id": "7",
+          "type": "sp",
+          "box": [
+            72.0,
+            445.0,
+            1136.0,
+            62.0
+          ],
+          "paragraphs": [
+            "Intriguing Properties of Generative Classifiers"
+          ]
+        },
+        {
+          "shape_id": "8",
+          "type": "sp",
+          "box": [
+            72.0,
+            521.0,
+            1136.0,
+            38.0
+          ],
+          "paragraphs": [
+            "Wiedemer et al. (2025)"
+          ]
+        },
+        {
+          "shape_id": "9",
+          "type": "sp",
+          "box": [
+            72.0,
+            562.0,
+            1136.0,
+            62.0
+          ],
+          "paragraphs": [
+            "Video models are zero-shot learners and reasoners"
+          ]
+        }
+      ],
+      "notes": [
+        "Siete publicaciones originales y sitio de demostraciones. David Fleet es inspiración personal de la charla, separado de la autoría de los estudios. Las notas de contenido señalan tablas, figuras y adaptaciones. La presentación está disponible sin conexión; los enlaces externos requieren internet.",
+        "",
+        "Se conservan las referencias y enlaces de la presentación de origen. Las guías de estilo se utilizaron solo para el diseño."
+      ]
+    },
+    {
+      "id": "s25",
+      "title": "Referencias: lenguaje",
+      "background": "#F8F7F3",
+      "objects": [
+        {
+          "shape_id": "8",
+          "type": "sp",
+          "box": [
+            72.0,
+            45.0,
+            1136.0,
+            100.0
+          ],
+          "paragraphs": [
+            "Referencias: lenguaje"
+          ]
+        },
+        {
+          "shape_id": "2",
+          "type": "sp",
+          "box": [
+            72.0,
+            180.0,
+            1136.0,
+            38.0
+          ],
+          "paragraphs": [
+            "Kamath et al. (2024)"
+          ]
+        },
+        {
+          "shape_id": "3",
+          "type": "sp",
+          "box": [
+            72.0,
+            224.0,
+            1136.0,
+            95.0
+          ],
+          "paragraphs": [
+            "Scope Ambiguities in Large Language Models"
+          ]
+        },
+        {
+          "shape_id": "4",
+          "type": "sp",
+          "box": [
+            72.0,
+            338.0,
+            1136.0,
+            38.0
+          ],
+          "paragraphs": [
+            "Hu et al. (2023)"
+          ]
+        },
+        {
+          "shape_id": "5",
+          "type": "sp",
+          "box": [
+            72.0,
+            382.0,
+            1136.0,
+            95.0
+          ],
+          "paragraphs": [
+            "A fine-grained comparison of pragmatic language understanding in humans and language models"
+          ]
+        },
+        {
+          "shape_id": "6",
+          "type": "sp",
+          "box": [
+            72.0,
+            496.0,
+            1136.0,
+            38.0
+          ],
+          "paragraphs": [
+            "Srikanth et al. (2025)"
+          ]
+        },
+        {
+          "shape_id": "7",
+          "type": "sp",
+          "box": [
+            72.0,
+            540.0,
+            1136.0,
+            95.0
+          ],
+          "paragraphs": [
+            "No Questions are Stupid, but some are Poorly Posed: Understanding Poorly-Posed Information-Seeking Questions"
+          ]
+        }
+      ],
+      "notes": [
+        "Siete publicaciones originales y sitio de demostraciones. David Fleet es inspiración personal de la charla, separado de la autoría de los estudios. Las notas de contenido señalan tablas, figuras y adaptaciones. La presentación está disponible sin conexión; los enlaces externos requieren internet. 24"
+      ]
+    }
+  ]
+}

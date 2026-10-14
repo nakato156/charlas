@@ -1,0 +1,36 @@
+<svg class="ppt-chart" role="img" aria-label="Gráfico original editable" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" width="100%" height="100%" viewBox="0 0 852 232.5">
+<defs>
+<clipPath id="chart-22-clip_1">
+<path transform="matrix(1,0,0,-1,-54,395.25)" d="M54 162.75H906V395.25H54Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="chart-22-clip_2">
+<path transform="matrix(1,0,0,-1,-54,395.25)" d="M0 .028H959.981V539.999H0Z" clip-rule="evenodd"/>
+</clipPath>
+</defs>
+<g>
+<g clip-path="url(#chart-22-clip_1)">
+<g clip-path="url(#chart-22-clip_2)">
+<path transform="matrix(1,0,0,-1,-54,395.25)" d="M0 540H959.981V.028H0V540Z" fill="#ffffff" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,-54,395.25)" d="M0 540H960.009V0H0V540Z" fill="#f8f7f3" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,-54,395.25)" d="M479.991 162.794H54V395.263H905.981V162.794H479.991Z" fill="#f8f7f3" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,-54,395.25)" d="M570.246 188.277H274.139V390.614H866.381V188.277H570.246Z" fill="#f8f7f3" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,-54,395.25)" stroke-width=".73697" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#e1e5e5" d="M274.139 390.643V188.306"/>
+<path transform="matrix(1,0,0,-1,-54,395.25)" stroke-width=".73697" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#e1e5e5" d="M422.192 390.643V188.306"/>
+<path transform="matrix(1,0,0,-1,-54,395.25)" stroke-width=".73697" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#e1e5e5" d="M570.246 390.643V188.306"/>
+<path transform="matrix(1,0,0,-1,-54,395.25)" stroke-width=".73697" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#e1e5e5" d="M718.299 390.643V188.306"/>
+<path transform="matrix(1,0,0,-1,-54,395.25)" stroke-width=".73697" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#e1e5e5" d="M866.381 390.643V188.306"/>
+<path transform="matrix(1,0,0,-1,-54,395.25)" d="M274.139 210.813V267.024H534.699V210.813H274.139Z" fill="#a86228" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,-54,395.25)" d="M274.139 311.953V368.164H730.148V311.953H274.139Z" fill="#246981" fill-rule="evenodd"/>
+<text fill="#142f3c" xml:space="preserve" transform="matrix(1.0000444 0 -0 .99995568 -54 395.25)" font-size="18.70683" font-family="DejaVu Sans"><tspan y="-232.51732" x="71.058849 83.8169 95.07841 104.80596 116.77833 128.7507 140.0122 149.73976 157.2412 169.21356 178.94112 184.17903 196.18881 208.16118 226.88672 238.14823 250.158 261.3821">Respuestas humanas</tspan></text>
+<text fill="#142f3c" xml:space="preserve" transform="matrix(1.0000444 0 -0 .99995568 -54 395.25)" font-size="18.70683" font-family="DejaVu Sans"><tspan y="-333.7058" x="81.54639 94.30444 105.56595 115.2935 127.26587 139.23824 150.49976 160.2273 167.72875 179.70111 189.42865 194.66657 206.67635 218.64873 224.6349 235.11074 245.58655 261.3564">Respuestas de LLMs</tspan></text>
+<text fill="#60747b" xml:space="preserve" transform="matrix(1.0000444 0 -0 .99995568 -54 395.25)" font-size="15.7877" font-family="DejaVu Sans"><tspan y="-171.2086" x="261.7314 271.47239">0%</tspan></text>
+<text fill="#60747b" xml:space="preserve" transform="matrix(1.0000444 0 -0 .99995568 -54 395.25)" font-size="15.7877" font-family="DejaVu Sans"><tspan y="-171.2086" x="404.89805 414.639 424.38">25%</tspan></text>
+<text fill="#60747b" xml:space="preserve" transform="matrix(1.0000444 0 -0 .99995568 -54 395.25)" font-size="15.7877" font-family="DejaVu Sans"><tspan y="-171.2086" x="552.96847 562.7095 572.4505">50%</tspan></text>
+<text fill="#60747b" xml:space="preserve" transform="matrix(1.0000444 0 -0 .99995568 -54 395.25)" font-size="15.7877" font-family="DejaVu Sans"><tspan y="-171.2086" x="701.0109 710.75198 720.4929">75%</tspan></text>
+<text fill="#60747b" xml:space="preserve" transform="matrix(1.0000444 0 -0 .99995568 -54 395.25)" font-size="15.7877" font-family="DejaVu Sans"><tspan y="-171.2086" x="843.8376 853.5786 863.31967 873.78689">100%</tspan></text>
+<text fill="#142f3c" xml:space="preserve" transform="matrix(1.0000444 0 -0 .99995568 -54 395.25)" font-size="18.70683" font-family="DejaVu Sans" font-weight="bold"><tspan y="-232.51732" x="537.5211 550.2792 563.03726">44%</tspan></text>
+<text fill="#142f3c" xml:space="preserve" transform="matrix(1.0000444 0 -0 .99995568 -54 395.25)" font-size="18.70683" font-family="DejaVu Sans" font-weight="bold"><tspan y="-333.7058" x="732.95449 745.7125 758.4706">77%</tspan></text>
+</g>
+</g>
+</g>
+</svg>

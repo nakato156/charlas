@@ -1,0 +1,14 @@
+{
+  "paper": "https://aclanthology.org/2025.acl-long.160.pdf",
+  "figure": 1,
+  "pdf_page": 1,
+  "printed_page": 3182,
+  "crop_pdf_points": [
+    304.0,
+    218.0,
+    528.0,
+    372.0
+  ],
+  "paper_sha256": "c3889b525c25710308a4358e3af2f218de2b036006c8444028b07199d1aef205",
+  "method": "Direct original PDF crop; no redrawing or altered labels"
+}

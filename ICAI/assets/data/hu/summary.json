@@ -1,0 +1,58 @@
+{
+  "seed": 20261008,
+  "n_boot": 1000,
+  "confidence": 0.95,
+  "categories": [
+    "Pragmática correcta",
+    "Literal"
+  ],
+  "series": [
+    {
+      "name": "Humanos",
+      "n": 25,
+      "values": [
+        {
+          "label": "CorrectNonLiteral",
+          "mean": 0.9194652406417112,
+          "low": 0.88898128342246,
+          "high": 0.9451363636363637
+        },
+        {
+          "label": "IncorrectLiteral",
+          "mean": 0.056577540106951874,
+          "low": 0.03646524064171123,
+          "high": 0.0807566844919786
+        }
+      ]
+    },
+    {
+      "name": "text-davinci-002",
+      "n": 125,
+      "values": [
+        {
+          "label": "CorrectNonLiteral",
+          "mean": 0.5820101005239116,
+          "low": 0.4997218379731084,
+          "high": 0.6590771949022198
+        },
+        {
+          "label": "IncorrectLiteral",
+          "mean": 0.3985775709278547,
+          "low": 0.3214872446303102,
+          "high": 0.4773990301832021
+        }
+      ]
+    }
+  ],
+  "method": "Notebook Fig. 3: mean; percentile bootstrap of rows, 1000 resamples. Humans: 25 item frequencies. Model: 125 item × permutation probabilities; no renormalization.",
+  "source": "https://github.com/jennhu/lm-pragmatics/blob/master/analysis/main.ipynb",
+  "sha256": {
+    "Human_Irony.csv": "0631fa6a196fcb708a8a04ffd1e6f4a7876a268b64e4282338c41b1e5b180065",
+    "IronyKeyComplex.txt": "522af6577113667313a12c0b6e55e8d2ce3e2f986457e34eb93b97df6698c13f",
+    "Irony_text-davinci-002_seed0_examples0.csv": "91f64610587409921c16a19e2f46311f0d6a77c1e831ede0457b3beae2e2eb79",
+    "Irony_text-davinci-002_seed1_examples0.csv": "f8a7f46f5d9f4fcfb70045e2f80d33d43913d85d337533c6d04daa7493322514",
+    "Irony_text-davinci-002_seed2_examples0.csv": "6323d45d8db50166be6301a477bc5f663d4d45eda9e8c57d4f6563cd1d99efa6",
+    "Irony_text-davinci-002_seed3_examples0.csv": "2e3f2f91fce78a8e62ebee737fda614adbc4b61609fb86bf9790aee8bcf4ee5d",
+    "Irony_text-davinci-002_seed4_examples0.csv": "92bf0a577993e873a654cc3242d27c367a5d70b07cc13e85149182d24cbc13cd"
+  }
+}

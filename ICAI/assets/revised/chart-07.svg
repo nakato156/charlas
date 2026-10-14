@@ -1,0 +1,45 @@
+<svg class="ppt-chart" role="img" aria-label="Gráfico original editable" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" width="100%" height="100%" viewBox="0 0 852 281.25">
+<defs>
+<clipPath id="chart-7-clip_1">
+<path transform="matrix(1,0,0,-1,-54,408)" d="M54 126.75H906V408H54Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="chart-7-clip_2">
+<path transform="matrix(1,0,0,-1,-54,408)" d="M0 .028H959.981V539.999H0Z" clip-rule="evenodd"/>
+</clipPath>
+</defs>
+<g>
+<g clip-path="url(#chart-7-clip_1)">
+<g clip-path="url(#chart-7-clip_2)">
+<path transform="matrix(1,0,0,-1,-54,408)" d="M0 540H959.981V.028H0V540Z" fill="#ffffff" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,-54,408)" d="M0 540H960.009V0H0V540Z" fill="#f8f7f3" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,-54,408)" d="M479.452 126.765H54V407.991H904.904V126.765H479.452Z" fill="#f8f7f3" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,-54,408)" d="M543.402 153.213H221.414V402.378H865.361V153.213H543.402Z" fill="#f8f7f3" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,-54,408)" stroke-width=".73604" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#e1e5e5" d="M221.414 402.406V153.241"/>
+<path transform="matrix(1,0,0,-1,-54,408)" stroke-width=".73604" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#e1e5e5" d="M382.394 402.406V153.241"/>
+<path transform="matrix(1,0,0,-1,-54,408)" stroke-width=".73604" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#e1e5e5" d="M543.402 402.406V153.241"/>
+<path transform="matrix(1,0,0,-1,-54,408)" stroke-width=".73604" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#e1e5e5" d="M704.353 402.406V153.241"/>
+<path transform="matrix(1,0,0,-1,-54,408)" stroke-width=".73604" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#e1e5e5" d="M865.361 402.406V153.241"/>
+<path transform="matrix(1,0,0,-1,-54,408)" d="M221.414 164.324V192.019H356.627V164.324H221.414Z" fill="#9daeb4" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,-54,408)" d="M221.414 214.157V241.852H588.472V214.157H221.414Z" fill="#9daeb4" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,-54,408)" d="M221.414 264.019V291.657H820.261V264.019H221.414Z" fill="#9daeb4" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,-54,408)" d="M221.414 313.824V341.518H839.594V313.824H221.414Z" fill="#a86228" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,-54,408)" d="M221.414 363.657V391.351H858.898V363.657H221.414Z" fill="#246981" fill-rule="evenodd"/>
+<text fill="#142f3c" xml:space="preserve" transform="matrix(.99940219 0 -0 1.0005982 -54 408)" font-size="18.695818" font-family="DejaVu Sans"><tspan y="-171.71327" x="121.266498 134.01706 145.27194 154.99378 169.20259 180.45748 187.95452 194.68502 206.65033">ResNet-50</tspan></text>
+<text fill="#142f3c" xml:space="preserve" transform="matrix(.99940219 0 -0 1.0005982 -54 408)" font-size="18.695818" font-family="DejaVu Sans"><tspan y="-221.5125" x="178.99602 191.74658 202.21625 207.45108">CLIP</tspan></text>
+<text fill="#142f3c" xml:space="preserve" transform="matrix(.99940219 0 -0 1.0005982 -54 408)" font-size="18.695818" font-family="DejaVu Sans"><tspan y="-271.3107" x="71.07149 82.32637 89.786 101.04089 113.0436 118.259738 130.22505 136.20774 150.45395 155.67008 162.10144 168.42063 180.38594 190.10778 195.32392 206.5788">Stable Diffusion</tspan></text>
+<text fill="#142f3c" xml:space="preserve" transform="matrix(.99940219 0 -0 1.0005982 -54 408)" font-size="18.695818" font-family="DejaVu Sans"><tspan y="-321.10893" x="130.27388 143.75356 155.75627 173.74166 185.70697 197.6723 208.92719">Humanos</tspan></text>
+<text fill="#142f3c" xml:space="preserve" transform="matrix(.99940219 0 -0 1.0005982 -54 408)" font-size="18.695818" font-family="DejaVu Sans"><tspan y="-370.90715" x="148.26165 153.49648 171.48186 183.48458 194.70206 206.70479">Imagen</tspan></text>
+<text fill="#60747b" xml:space="preserve" transform="matrix(.9994022 0 -0 1.0005982 -54 408)" font-size="15.777562" font-family="DejaVu Sans"><tspan y="-136.0786" x="209.16402 218.89879">0%</tspan></text>
+<text fill="#60747b" xml:space="preserve" transform="matrix(.9994022 0 -0 1.0005982 -54 408)" font-size="15.777562" font-family="DejaVu Sans"><tspan y="-136.0786" x="365.3574 375.09217 384.8269">25%</tspan></text>
+<text fill="#60747b" xml:space="preserve" transform="matrix(.9994022 0 -0 1.0005982 -54 408)" font-size="15.777562" font-family="DejaVu Sans"><tspan y="-136.0786" x="526.4507 536.18539 545.92007">50%</tspan></text>
+<text fill="#60747b" xml:space="preserve" transform="matrix(.9994022 0 -0 1.0005982 -54 408)" font-size="15.777562" font-family="DejaVu Sans"><tspan y="-136.0786" x="687.5159 697.2506 706.9853">75%</tspan></text>
+<text fill="#60747b" xml:space="preserve" transform="matrix(.9994022 0 -0 1.0005982 -54 408)" font-size="15.777562" font-family="DejaVu Sans"><tspan y="-136.0786" x="843.3691 853.10379 862.8385 873.29898">100%</tspan></text>
+<text fill="#142f3c" xml:space="preserve" transform="matrix(.99940219 0 -0 1.0005982 -54 408)" font-size="18.695818" font-family="DejaVu Sans" font-weight="bold"><tspan y="-171.71327" x="359.66304 372.4136 385.16416">21%</tspan></text>
+<text fill="#142f3c" xml:space="preserve" transform="matrix(.99940219 0 -0 1.0005982 -54 408)" font-size="18.695818" font-family="DejaVu Sans" font-weight="bold"><tspan y="-221.5125" x="591.6307 604.3812 617.1318">57%</tspan></text>
+<text fill="#142f3c" xml:space="preserve" transform="matrix(.99940219 0 -0 1.0005982 -54 408)" font-size="18.695818" font-family="DejaVu Sans" font-weight="bold"><tspan y="-271.3107" x="823.56838 836.3189 849.06948">93%</tspan></text>
+<text fill="#142f3c" xml:space="preserve" transform="matrix(.99940219 0 -0 1.0005982 -54 408)" font-size="18.695818" font-family="DejaVu Sans" font-weight="bold"><tspan y="-321.10893" x="842.9159 855.66647 868.417">96%</tspan></text>
+<text fill="#142f3c" xml:space="preserve" transform="matrix(.99940219 0 -0 1.0005982 -54 408)" font-size="18.695818" font-family="DejaVu Sans" font-weight="bold"><tspan y="-370.90715" x="862.2345 874.985 887.73556">99%</tspan></text>
+</g>
+</g>
+</g>
+</svg>

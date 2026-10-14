@@ -1,0 +1,16 @@
+{
+  "source": "https://arxiv.org/html/2509.20328v2",
+  "prompts": {
+    "s13": "All edges in this image become more salient by transforming into black outlines. Then, all objects fade away, with just the edges remaining on a white background. Static camera perspective, no zoom or pan.",
+    "s15": "Static camera perspective.",
+    "s16": "Transform the animal in this image into a sketch of the animal surrounded by its family.",
+    "s14": "Create an animation of instance segmentation being performed on this photograph: each distinct entity is overlaid in a different flat color.\nScene:\nThe animation starts from the provided, unaltered photograph.\nThe scene in the photograph is static and doesn’t move.\nFirst, the background fades to {white, green}.\nThen, the first entity is covered by a flat color, perfectly preserving its silhouette.\nThen the second entity, too, is covered by a different flat color, perfectly preserving its silhouette.\nOne by one, each entity is covered by a different flat color.\nFinally, all entities are covered with different colors.\nCamera:\nStatic shot without camera movement.\nNo pan.\nNo rotation.\nNo zoom.\nNo glitches or artifacts."
+  },
+  "segmentation_variant": "Original template preserved: {white, green}. The Fig. 11 demo uses white.",
+  "display_prompts": {
+    "s13": "Turn all edges into black outlines on a white background. Static camera.",
+    "s14": "Cover each distinct object with a different flat color, preserving its silhouette. Static camera.",
+    "s15": "Static camera perspective.",
+    "s16": "Transform the animal in this image into a sketch of the animal surrounded by its family."
+  }
+}

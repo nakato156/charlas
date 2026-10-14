@@ -1,0 +1,43 @@
+{
+  "page_url": "https://deepmind.google/models/veo/",
+  "source": "Official Google DeepMind Veo webpage; image frames hosted by Googleusercontent",
+  "accessed": "2026-10-09",
+  "assets": [
+    {
+      "file": "assets/veo-google/veo-scene-city.jpg",
+      "description_internal": "Escena urbana con dos personajes",
+      "url": "https://lh3.googleusercontent.com/BXf7nFeF8HLOvRUH3C0Gm7vCGyIRUhaZ8oMkb_oFKW5RxrDWnsFx8wD-1kDG8z4vuwMgqDOmMn1YU9CxAewIKclglhcuUc_8RUfcfy7YaNTB03Sc3w=w1440-h810-n-nu",
+      "sha256": "acf321eb30b3bb8052c31d0ef85151ede529ed37231c428298ea24052daf76cc"
+    },
+    {
+      "file": "assets/veo-google/veo-scene-bird.jpg",
+      "description_internal": "Escena fantástica con ave en vuelo",
+      "url": "https://lh3.googleusercontent.com/stmB5d1VCdgmMUXrluAQEOFjc7KnAh1HEZpEa9roUUaZSs7l959ccPVuXeQfeosk0UnsVN28A2Qtb5ztq4qzCnonUoq4php6fFogQ7zRBYnu1rdNusY=w1440-h810-n-nu",
+      "sha256": "6a8298ea385850eb1a47ce46ebced06f5fce78a7d491340c5e30a370111c62a4"
+    },
+    {
+      "file": "assets/veo-google/veo-scene-candle.jpg",
+      "description_internal": "Figura animada junto a una vela",
+      "url": "https://lh3.googleusercontent.com/givG_8BNQzZcq5W98Nojwwk2QHIokeZnhFXXN7VaF5LJMhiVn7QZUJWCMc052h36I6RsRkosi-hKnR-QAOXSxmLLtJsbxzv5cb4l9XkfjcatO1MfwA=w1440-h810-n-nu",
+      "sha256": "94e883fc0301c2c77cd1548885d3c39826c6cbf18d29143ea596a81b255ad82e"
+    },
+    {
+      "file": "assets/veo-google/veo-scene-forest.jpg",
+      "description_internal": "Bosque fantástico animado",
+      "url": "https://lh3.googleusercontent.com/r8GdFVkzQUZJUavR472wZA4NsdM5CarlMf4xFW1tafuLyRPbbhDxU1MeIanCWYjgfrgoqNTHBa94wo0kyCVQHuxvvcwfcRIAwW0o1xJgFocg5Ple=w1440-h810-n-nu",
+      "sha256": "02bc1e987b4fa09d01ee77b93b7782ba00ddd302332de9be6a80d7011438fa93"
+    },
+    {
+      "file": "assets/veo-google/google-veo3-wordmark.png",
+      "description_internal": "Logotipo Google Veo 3 transparente, proporcionado por el usuario",
+      "source": "Imagen proporcionada por el usuario en esta conversación; transparencia original conservada y márgenes transparentes recortados.",
+      "sha256": "aac10ac22dfff9976217c45627b768d7283ca9f294248bb5cde550ec921da522"
+    },
+    {
+      "file": "assets/veo-google/google-veo3-wordmark-source.png",
+      "description_internal": "Original Google Veo 3 wordmark image provided by the user",
+      "source": "Imagen proporcionada por el usuario en esta conversación.",
+      "sha256": "4d5f5aee91eda2829f0f4df50f3bc12c0c7f3fc996fcd14188f484c1b5a05952"
+    }
+  ]
+}

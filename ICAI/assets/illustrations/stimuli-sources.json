@@ -1,0 +1,33 @@
+{
+  "repository": "https://github.com/rgeirhos/texture-vs-shape",
+  "benchmark": "https://github.com/bethgelab/model-vs-human",
+  "commit": "ccd0c01d42c0a8a834e90ec141e7f24fa915dc23",
+  "assets": [
+    {
+      "file": "assets/illustrations/cat-edge.png",
+      "source": "https://raw.githubusercontent.com/rgeirhos/texture-vs-shape/ccd0c01d42c0a8a834e90ec141e7f24fa915dc23/stimuli/edges/cat/cat7.png",
+      "reference_class": "cat",
+      "dataset": "edge",
+      "sha256": "4cbf085c7f5fa23ec1524999dc983d3f2b51f0fc774682d35e9a8543769d2145",
+      "benchmark_validation": {
+        "source": "https://raw.githubusercontent.com/bethgelab/model-vs-human/79ed7cd1d9ac3a114e71b6638f0a98bdd627316c/raw-data/edge/edge_subject-01_session_1.csv",
+        "image_name": "0088_edg_s01_0_cat_00_cat7.png",
+        "reference_category": "cat"
+      }
+    },
+    {
+      "file": "assets/illustrations/dog-silhouette.png",
+      "source": "https://raw.githubusercontent.com/rgeirhos/texture-vs-shape/ccd0c01d42c0a8a834e90ec141e7f24fa915dc23/stimuli/filled-silhouettes/dog/dog1.png",
+      "reference_class": "dog",
+      "dataset": "silhouette",
+      "sha256": "592cf63ffcba449e87876217192a8843ec8798b5af74bd9028102c601dc7f378",
+      "benchmark_validation": {
+        "source": "https://raw.githubusercontent.com/bethgelab/model-vs-human/79ed7cd1d9ac3a114e71b6638f0a98bdd627316c/raw-data/silhouette/silhouette_subject-01_session_1.csv",
+        "image_name": "0154_sif_s01_0_dog_00_dog1.png",
+        "reference_category": "dog"
+      }
+    }
+  ],
+  "responses": "Hypothetical teaching examples, not measured responses",
+  "benchmark_commit": "79ed7cd1d9ac3a114e71b6638f0a98bdd627316c"
+}

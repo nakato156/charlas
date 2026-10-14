@@ -1,0 +1,42 @@
+<svg class="ppt-chart" role="img" aria-label="Gráfico original editable" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" width="100%" height="100%" viewBox="0 0 852 273.75">
+<defs>
+<clipPath id="chart-8-clip_1">
+<path transform="matrix(1,0,0,-1,-54,408)" d="M54 134.25H906V408H54Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="chart-8-clip_2">
+<path transform="matrix(1,0,0,-1,-54,408)" d="M0 .028H959.981V539.999H0Z" clip-rule="evenodd"/>
+</clipPath>
+</defs>
+<g>
+<g clip-path="url(#chart-8-clip_1)">
+<g clip-path="url(#chart-8-clip_2)">
+<path transform="matrix(1,0,0,-1,-54,408)" d="M0 540H959.981V.028H0V540Z" fill="#ffffff" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,-54,408)" d="M0 540H960.009V0H0V540Z" fill="#f8f7f3" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,-54,408)" d="M479.991 134.277H54V407.991H905.981V134.277H479.991Z" fill="#f8f7f3" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,-54,408)" d="M552.643 160.583H233.66V402.52H871.654V160.583H552.643Z" fill="#f8f7f3" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,-54,408)" stroke-width=".73697" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#e1e5e5" d="M233.66 402.548V160.611"/>
+<path transform="matrix(1,0,0,-1,-54,408)" stroke-width=".73697" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#e1e5e5" d="M393.165 402.548V160.611"/>
+<path transform="matrix(1,0,0,-1,-54,408)" stroke-width=".73697" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#e1e5e5" d="M552.643 402.548V160.611"/>
+<path transform="matrix(1,0,0,-1,-54,408)" stroke-width=".73697" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#e1e5e5" d="M712.148 402.548V160.611"/>
+<path transform="matrix(1,0,0,-1,-54,408)" stroke-width=".73697" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#e1e5e5" d="M871.654 402.548V160.611"/>
+<path transform="matrix(1,0,0,-1,-54,408)" d="M233.66 174.076V207.666H568.573V174.076H233.66Z" fill="#9daeb4" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,-54,408)" d="M233.66 234.567V268.157H648.34V234.567H233.66Z" fill="#9daeb4" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,-54,408)" d="M233.66 295.03V328.62H680.23V295.03H233.66Z" fill="#9daeb4" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,-54,408)" d="M233.66 355.521V389.112H728.079V355.521H233.66Z" fill="#246981" fill-rule="evenodd"/>
+<text fill="#142f3c" xml:space="preserve" transform="matrix(1.0000352 0 -0 .99996486 -54 408)" font-size="18.707659" font-family="DejaVu Sans"><tspan y="-184.49349" x="133.30432 146.06293 157.32494 167.05294 181.27075 192.53276 200.03455 206.7693 218.7422">ResNet-50</tspan></text>
+<text fill="#142f3c" xml:space="preserve" transform="matrix(1.0000352 0 -0 .99996486 -54 408)" font-size="18.707659" font-family="DejaVu Sans"><tspan y="-244.98062" x="115.30594 128.06458 133.28401 144.54602 151.28078 163.25368 175.26398 188.0039 194.75737 206.73027 218.70316">ViT-22B-384</tspan></text>
+<text fill="#142f3c" xml:space="preserve" transform="matrix(1.0000352 0 -0 .99996486 -54 408)" font-size="18.707659" font-family="DejaVu Sans"><tspan y="-305.46775" x="71.059497 83.81812 94.2944 99.53255 110.794559 116.781009 122.76745 134.74034 146.71324 152.69969 164.67258 172.19306 183.45507 202.18143 214.19174 220.94522">CLIP, 80 prompts</tspan></text>
+<text fill="#142f3c" xml:space="preserve" transform="matrix(1.0000352 0 -0 .99996486 -54 408)" font-size="18.707659" font-family="DejaVu Sans"><tspan y="-365.95487" x="160.31638 165.5545 183.55127 195.56159 206.78618 218.79651">Imagen</tspan></text>
+<text fill="#60747b" xml:space="preserve" transform="matrix(1.0000352 0 -0 .99996486 -54 408)" font-size="15.787555" font-family="DejaVu Sans"><tspan y="-143.53606" x="216.38239 226.12332 231.34902 241.08994">0.00</tspan></text>
+<text fill="#60747b" xml:space="preserve" transform="matrix(1.0000352 0 -0 .99996486 -54 408)" font-size="15.787555" font-family="DejaVu Sans"><tspan y="-143.53606" x="375.8768 385.6177 390.84339 400.58427">0.10</tspan></text>
+<text fill="#60747b" xml:space="preserve" transform="matrix(1.0000352 0 -0 .99996486 -54 408)" font-size="15.787555" font-family="DejaVu Sans"><tspan y="-143.53606" x="535.3712 545.1121 550.33779 560.0787">0.20</tspan></text>
+<text fill="#60747b" xml:space="preserve" transform="matrix(1.0000352 0 -0 .99996486 -54 408)" font-size="15.787555" font-family="DejaVu Sans"><tspan y="-143.53606" x="694.8666 704.6075 709.8331 719.57406">0.30</tspan></text>
+<text fill="#60747b" xml:space="preserve" transform="matrix(1.0000352 0 -0 .99996486 -54 408)" font-size="15.787555" font-family="DejaVu Sans"><tspan y="-143.53606" x="854.36099 864.10189 869.3275 879.0684">0.40</tspan></text>
+<text fill="#142f3c" xml:space="preserve" transform="matrix(1.0000352 0 -0 .99996486 -54 408)" font-size="18.707659" font-family="DejaVu Sans" font-weight="bold"><tspan y="-184.49349" x="571.3969 584.15548 590.909 604.3785">0.21</tspan></text>
+<text fill="#142f3c" xml:space="preserve" transform="matrix(1.0000352 0 -0 .99996486 -54 408)" font-size="18.707659" font-family="DejaVu Sans" font-weight="bold"><tspan y="-244.98062" x="651.1591 663.91769 670.6712 684.1407">0.26</tspan></text>
+<text fill="#142f3c" xml:space="preserve" transform="matrix(1.0000352 0 -0 .99996486 -54 408)" font-size="18.707659" font-family="DejaVu Sans" font-weight="bold"><tspan y="-305.46775" x="683.04696 695.80557 702.559 716.0285">0.28</tspan></text>
+<text fill="#142f3c" xml:space="preserve" transform="matrix(1.0000352 0 -0 .99996486 -54 408)" font-size="18.707659" font-family="DejaVu Sans" font-weight="bold"><tspan y="-365.95487" x="730.89236 743.65097 750.4044 763.8739">0.31</tspan></text>
+</g>
+</g>
+</g>
+</svg>

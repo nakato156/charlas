@@ -1,0 +1,115 @@
+{
+  "paper": "https://aclanthology.org/2025.acl-long.403/",
+  "source": "Figure 1, bottom panels, p. 8235; values transcribed as printed, not recomputed",
+  "results": [
+    {
+      "panel": "Humanos",
+      "condition": "prob",
+      "label": "Objeto plausible",
+      "structure": "GP",
+      "paper_value": "0.133",
+      "percent_label": "13,3",
+      "mean": 0.133
+    },
+    {
+      "panel": "Humanos",
+      "condition": "prob",
+      "label": "Objeto plausible",
+      "structure": "nonGP",
+      "paper_value": "0.198",
+      "percent_label": "19,8",
+      "mean": 0.198
+    },
+    {
+      "panel": "Humanos",
+      "condition": "improb",
+      "label": "Objeto poco plausible",
+      "structure": "GP",
+      "paper_value": "0.480",
+      "percent_label": "48,0",
+      "mean": 0.48
+    },
+    {
+      "panel": "Humanos",
+      "condition": "improb",
+      "label": "Objeto poco plausible",
+      "structure": "nonGP",
+      "paper_value": "0.560",
+      "percent_label": "56,0",
+      "mean": 0.56
+    },
+    {
+      "panel": "Humanos",
+      "condition": "reflexive",
+      "label": "Verbo reflexivo/inacusativo",
+      "structure": "GP",
+      "paper_value": "0.304",
+      "percent_label": "30,4",
+      "mean": 0.304
+    },
+    {
+      "panel": "Humanos",
+      "condition": "reflexive",
+      "label": "Verbo reflexivo/inacusativo",
+      "structure": "nonGP",
+      "paper_value": "0.637",
+      "percent_label": "63,7",
+      "mean": 0.637
+    },
+    {
+      "panel": "Gemma-2-9B",
+      "condition": "prob",
+      "label": "Objeto plausible",
+      "structure": "GP",
+      "paper_value": "0.149",
+      "percent_label": "14,9",
+      "mean": 0.149
+    },
+    {
+      "panel": "Gemma-2-9B",
+      "condition": "prob",
+      "label": "Objeto plausible",
+      "structure": "nonGP",
+      "paper_value": "0.224",
+      "percent_label": "22,4",
+      "mean": 0.224
+    },
+    {
+      "panel": "Gemma-2-9B",
+      "condition": "improb",
+      "label": "Objeto poco plausible",
+      "structure": "GP",
+      "paper_value": "0.364",
+      "percent_label": "36,4",
+      "mean": 0.364
+    },
+    {
+      "panel": "Gemma-2-9B",
+      "condition": "improb",
+      "label": "Objeto poco plausible",
+      "structure": "nonGP",
+      "paper_value": "0.550",
+      "percent_label": "55,0",
+      "mean": 0.55
+    },
+    {
+      "panel": "Gemma-2-9B",
+      "condition": "reflexive",
+      "label": "Verbo reflexivo/inacusativo",
+      "structure": "GP",
+      "paper_value": "0.203",
+      "percent_label": "20,3",
+      "mean": 0.203
+    },
+    {
+      "panel": "Gemma-2-9B",
+      "condition": "reflexive",
+      "label": "Verbo reflexivo/inacusativo",
+      "structure": "nonGP",
+      "paper_value": "0.462",
+      "percent_label": "46,2",
+      "mean": 0.462
+    }
+  ],
+  "paper_sha256": "e75a9ae15646639f16fe07949556451207b757f80a888d93437855f6f5ff7590"
+}

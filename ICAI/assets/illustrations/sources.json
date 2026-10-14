@@ -1,0 +1,20 @@
+{
+  "author": "OpenMoji \u2013 HfG Schw\u00e4bisch Gm\u00fcnd",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "project": "https://openmoji.org/",
+  "commit": "aeb8bb3a59e2de39c754ac79180c8131c906acea",
+  "search": "https://www.google.com/search?tbm=isch&q=OpenMoji+robot+person+cartoon",
+  "assets": [
+    {
+      "file": "assets/illustrations/robot-openmoji.png",
+      "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/aeb8bb3a59e2de39c754ac79180c8131c906acea/color/618x618/1F916.png",
+      "sha256": "64ac345b8acc15cdcfcccf62a24b9f2163bbab6c1602ecccac1d514d5f0dc449"
+    },
+    {
+      "file": "assets/illustrations/person-openmoji.png",
+      "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/aeb8bb3a59e2de39c754ac79180c8131c906acea/color/618x618/1F9D1.png",
+      "sha256": "1bdfcb43a2f35e78e4f4ec34d56956445356306a0b3b84971466acbd432ce208"
+    }
+  ]
+}

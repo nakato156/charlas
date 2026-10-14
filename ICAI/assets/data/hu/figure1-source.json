@@ -1,0 +1,14 @@
+{
+  "paper": "https://aclanthology.org/2023.acl-long.230.pdf",
+  "figure": 1,
+  "pdf_page": 6,
+  "printed_page": 4199,
+  "crop_pdf_points": [
+    68.0,
+    68.0,
+    528.0,
+    167.0
+  ],
+  "paper_sha256": "a9ebefe9c3ec74c3ea60f59d7771ee2bc216a74e0f1fe0e71a78cc32fa3db5be",
+  "method": "Direct crop from original PDF, rasterized at 4x; no data extraction, calculations, redrawing or altered chart labels"
+}
